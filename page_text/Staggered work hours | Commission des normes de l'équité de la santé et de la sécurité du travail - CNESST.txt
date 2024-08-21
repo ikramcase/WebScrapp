@@ -1,0 +1,208 @@
+Staggered work hours
+
+
+Under certain conditions, workers’ work hours can be staggered over several weeks in order to calculate overtime. The average number of work hours during the reference period must, however, be equivalent to the standard work week, which is generally 40 hours.  
+
+Example of hours staggered over an 8-week reference period
+
+Week 1
+50 h
+
+Calculation:
+50 h + 59 h + 49 h + 0 h + 50 h + 55 h + 57 h + 0 h = 320 h/ 8 weeks = 40 h
+The average number of hours worked from week 1 to week 8 is 40 h.
+Therefore, the employer does not have to pay overtime.
+
+Week 2
+59 h
+Week 3
+49 h
+Week 4
+0 h
+Week 5
+50 h
+Week 6
+55 h
+Week 7
+57 h
+Week 8
+0 h
+For some sectors of activity, a standard work week may be shorter or longer.
+Authorization from the CNESST
+To stagger the work hours of all their workers over several weeks, an employer must apply to the CNESST for authorization. In their application for authorization, the employer must: 
+show that their company carries on its activities under special conditions 
+indicate the benefits for their workers 
+show that the workers are aware of the benefits  
+provide the signature of most of the staff concerned (50% + 1) 
+prove that the application is not a way of avoiding paying overtime at time and a half to their workers 
+post the application and the certificate of authorization in the workplace 
+stagger the hours over a maximum period of 8 weeks 
+notify the CNESST of a new hire if the percentage of workers who agreed to staggered work hours is no longer equivalent to the majority 
+The application for authorization must be submitted to the CNESST at least 2 months before the desired start date of the staggered hours. In the meantime, the employer must pay their workers overtime. The initial authorization (in French only) is valid for 1 year and the renewal is valid for 3 years.  
+The CNESST’s authorization is not required when staggered work hours are provided for in a collective agreement or a decree.
+Seasonal activities
+For employers who run a company that carries on seasonal activities, the authorization starts at the same time the activities start and ends when they end. Overtime is calculated on a 2- or 4-week basis and the employer must pay their workers regular pay of 40 hours a week.
+Individual agreement 
+To accommodate a worker, an employer may also agree to stagger their work hours over more than one week, in particular for their personal work-life balance. In this case, the CNESST’s authorization is not required. The worker must, however, give their free and voluntary consent. For example, an employer could not make consent to staggered hours a condition of employment. Our Template (in French only) can be used to draw up an individual staggered work hours agreement. The following conditions apply: 
+The agreement must be in writing and provide for hours to be staggered over a maximum period of 4 weeks 
+A work week may not exceed the standard work week by more than 10 hours 
+The worker or the employer may terminate the agreement with at least 2 weeks’ notice before the expected end of the period agreed upon 
+
+Example of hours staggered over a 4-week period
+
+Week 1
+25 h
+
+Calculation:
+25 h + 35 h + 50 h + 50 h = 160 h / 4 weeks = 40 h
+The average number of hours worked from week 1 to week 8 is 40 h.
+
+Week 2
+35 h
+Week 3
+50 h
+Week 4
+50 h
+Payment of overtime
+When the average number of staggered hours is higher than the standard, the employer must pay overtime at time and a half.
+
+Example of hours staggered over a 2-week period where the employer does not have to pay overtime
+
+Week 1
+36 hours
+
+Calculation:
+36 h + 44 h / 2 weeks = 40 hours
+The average number of hours corresponds to the standard provided for by law. The employer does not have to pay overtime.
+
+Week 2
+44 hours
+
+Example of hours staggered over a 2-week period where the employer has to pay overtime
+
+Week 1
+37 hours
+
+Calculation:
+37 h + 47 h / 2 weeks = 42 hours.
+The average number of hours is higher than the standard provided for by law. The employer must pay these 2 hours at time and a half.
+
+Week 2
+47 hours
+
+
+
+        Forms and publications      
+
+
+Demande d'autorisation d'étalement des heures de travail (Formulaire)
+
+
+
+Gabarit – Entente d’étalement des heures de travail entre l’employeur et le salarié (Document d’information)
+
+
+
+
+
+
+        Laws and regulations      
+
+
+Loi sur les normes du travail (LNT) – Articles 52 à 59.0.1
+
+
+
+
+
+Guide Interprétation et jurisprudence – Articles 52 à 59.0.1
+
+
+
+
+
+
+
+
+
+
+Secondary menu
+
+
+ Work schedule
+ Active page
+
+
+Standard work week
+
+
+Presence at work, breaks and weekly rest period
+
+
+Worker training
+
+
+Right to refuse to work
+
+
+Right to refuse to perform a task
+
+
+Right to refuse to work overtime
+
+
+
+
+Staggered work hours
+
+
+
+
+
+
+
+
+
+
+
+
+
+Help us improve our website
+
+
+
+
+Was the information on this page helpful to you?
+
+
+
+
+
+Yes
+
+
+
+No
+
+
+
+
+
+What information are you looking for? 
+
+
+We will use your comments to improve the information.
+Avoid entering personal or file-related information. Please note that you will not receive a reply.
+Any questions about a file? Use our online inquiry service.  
+Would you like to file a complaint? Consult our Complaints and recourses section.
+
+
+
+
+
+ 
+
+
+
+
+Leave this field blank

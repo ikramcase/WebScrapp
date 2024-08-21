@@ -1,0 +1,347 @@
+COVID‑19 Toolkit
+
+
+This guide is designed to provide support for occupational health and safety (OHS) management in the workplace. The information it contains is based on the recommendations made by the Directeur national de santé publique (DNSP), the Réseau de santé publique en santé au travail (RSPSAT) and the Institut national de santé publique du Québec (INSPQ). The guide specifies the CNESST’s expectations with regard to these recommendations. The latest changes to health measures in the workplace (outside health care settings) are summarized in this table:
+Changes to health measures in the workplace (outside health care settings)
+The measures proposed must be adapted to the different sectors to ensure that activities can resume or continue under the safest and healthiest possible conditions during the COVID-19 pandemic.
+During a crisis, it is important that workers and other stakeholders work together to ensure healthy and safe workplaces for all. Dialogue and cooperation are essential to achieving this.
+For the measures applicable to their clientele, workplaces should refer to the Direction générale de la santé publique guidelines. 
+Workplace Guide to Sanitory Standards - COVID-19
+The guides can be printed from your browser using the following keys: CTRL+P. Check back regularly to ensure you have the most up-to-date information.
+Management of occupational health and safety 
+
+
+Management means implementing the necessary measures to honour the employer’s legal obligations, namely identify, correct and control the risks and encourage the workers’ participation in this preventive approach. 
+Good cooperation between the employer and the personnel, including the members of the health and safety committee, as applicable, is crucial to promoting management of OHS. The workers’ representatives, particularly the members of the health and safety committee, as well as the prevention representatives, as applicable, can help identify everyday risky situations, evaluate the real feasibility of the actions envisioned, encourage their implementation and anticipate practical questions. They can also participate in dissemination of the information to their co-workers. When a health and safety committee is present, it would be expedient to analyze the possibility of adjusting the frequency of the meetings to the context of the work environment. 
+It is also important to inform the suppliers, subcontractors, partners and customers of the measures implemented in relation to COVID-19 and the importance of compliance with these measures, and to solicit their cooperation. 
+The result of the preventive approach allows proactive intervention when planning a safe resumption or continuation of operations while honouring the legal obligations. This also allows updating of the prevention program, as needed. 
+After identifying the risks related to contamination in the context of COVID-19 in your work environment, it is important to implement the preventive measures recommended by the public health authorities and the occupational health and safety experts. The guide also proposes several additional preventive measures that may be included, in part or in whole, in the preventive measures plan and applied when the workplace deems it necessary. The local epidemiological situation or the proximity between workers and clients are examples of criteria that must be considered when applying additional measures.
+When the preventive measures are chosen and implemented, it must be ensured that they remain in place and effective. This is called “permanency of corrective action”. In addition to applying the preventive measures specific to COVID-19, the employer must also consider the other risks related to his usual operations, new operations and ad hoc operations (e.g. work reorganization, restoration of machines to operation, maintenance, verifications). 
+To propose specific tools to identify the risks and the preventive and control measures in the context of COVID-19, the CNESST has provided quick references and checklists to support the work environments in the management of occupational health and safety. 
+ 
+
+
+
+
+Transmission mode
+
+
+Coronaviruses generally affect the nose, throat and lungs. They usually spread through droplets in the air when you come into contact with an infected person, whether or not that person has symptoms. They can also be spread by contaminated hands. Thus, touching your mouth, nose or eyes after having been in contact with an infected person or a contaminated surface is a way of developing COVID-19. 
+Coronaviruses will last a few hours on inert objects with dry surfaces and a few days on inert objects with moist surfaces. 
+ 
+
+
+
+
+Preventive Measures
+
+
+The employer must proceed with identification of the risks of transmission of COVID-19 in the work environment. If the risks of contamination cannot be eliminated, the employer must seek to reduce and control them. It must determine during which tasks workers are likely to be exposed to the virus.
+Preventive measures may be applied to reduce the risks of transmission of COVID-19. They are based on the principles of exclusion of symptomatic persons from the workplace, physical distancing, hand hygiene, respiratory etiquette and maintenance of hygiene measures for the tools, equipment and frequently touched surfaces.
+
+
+
+
+Exclusion of symptomatic workers from the workplace 
+
+
+Persons exhibiting symptoms are part of the COVID-19 transmission chain in the workplace. Procedures accounting for the following factors can avoid transmission of the disease: 
+The workers are informed that in case of symptoms of cough or fever, difficulty breathing, sudden loss of smell or taste without nasal congestion or any other symptom associated with COVID-19, they must not report to work; 
+Identification of workers with COVID-19 symptoms before they enter the workplace, by means such as: 
+	the INSPQ’s questionnaire,  
+self-evaluation by the workers;
+emails reminding workers of the isolation procedure if they have symptoms
+The information collected in this way is confidential. The employer must take the necessary measures to protect the confidentiality of this information: 
+
+When a person exhibits symptoms associated with COVID-19, as indicated on the government website, that person must wear a procedure mask and be isolated in a room;  
+Once the person exhibiting symptoms has left, prohibit access to the isolation room waiting to clean it and disinfect the surfaces and objects touched by the person; 
+To find out what isolation instructions apply to your situation, you can consult the self-assessment tool available on the government's website Québec.ca.
+Special preventive measures (in French only) must be observed for workers who have contracted COVID-19 or have been exposed to a case of COVID-19.
+Additional measures that can be implemented in the workplace
+A reminder is made so that workers are made aware of the importance of self-isolating if they have symptoms of cough or fever, difficulty breathing, a sudden loss of smell or taste without nasal congestion or any other symptoms associated with COVID-19.
+Workers who have contracted COVID-19 are excluded from the workplace for a period of 10 days after the onset of symptoms or after obtaining a positive result.
+Workers who live with someone who has contracted COVID-19 are excluded from the workplace. They may return to the workplace 10 days after the onset of symptoms or after their household contact obtained a positive result.
+
+
+
+
+Physical distancing
+
+
+Distancing measures (physical distancing, physical barriers or wearing a quality mask) are no longer mandatory, with some exceptions. However, they are still recommended, in particular when performing tasks that require the presence of several workers in a small area.
+Wearing a quality mask is still mandatory in health care settings.
+Also, designated spaces should be provided for persons at risk (e.g. people who have a chronic disease (in French only) or are immunosuppressed (in French only), in particular in dining rooms and lounges, in compliance with INSPQ recommendations for these workers.
+Handshakes, hugs and other physical contact should be avoided as much as possible.
+Suppliers, subcontractors, partners and clients have been made aware of the measures in place in the enterprise to control the risks associated with COVID-19 and of the importance of respecting them.
+Adjustments must be made to limit the risk of transmission when the principles of physical distancing cannot be respected: 
+Use of technological means (telework, hybrid model)
+Installation of physical barriers (full partitions) between different workstations that are too close to each other or that cannot be spaced (it is recommended that the physical barriers already installed be left in place)
+Organization of work methods. For example: 
+	prefer teams that are as small and stable as possible 
+limit outings and trips to those strictly necessary 
+
+Note
+Wearing a quality mask is still mandatory in the following health care settings: hospitals, medical clinics, family medicine groups (GMF) and long-term care centres (CHSLD).
+The following quality masks can be used to protect workers from COVID-19:
+	medical masks meeting ASTM F2100 and EN 14683 Type IIR standards
+masks certified by the Bureau de normalisation du Québec (BNQ) in attestation document 1922-900 (BNQ website)
+any respiratory protection device (RPD) equipped with a particle filter, as defined in CSA Standard Z94.4-18, Selection, Use and Care of Respirators, such as N95 or P100 RPDs
+
+Additional measures that can be implemented in the workplace
+Encourage the use of technology (remote work) to reduce the number of interactions in the workplace.
+Whenever possible, people must maintain a distance of at least 2 metres from one another at work, from start to finish, and during breaks and at lunchtime.
+A quality mask is provided by the employer and worn by workers when the minimum physical distance (2 metres) cannot be maintained or in the absence of physical barriers.
+A quality mask must be worn when moving about (e.g., common circulation area, corridor, lift), since it is not possible to ensure that the minimum physical distance (2 metres) is respected.
+Depending on the situation, a quality mask is provided by the employer and worn by workers indoors at all times, even if distancing is respected or even if there is a physical barrier. Outdoors, a mask must be worn when the minimum physical distance (2 metres) cannot be respected.
+
+
+
+
+Hand hygiene
+
+
+Frequent hand washing with soap and lukewarm water or with a hydroalcoholic solution with an alcohol concentration of at least 60% for at least 20 seconds limits the risks of transmission in the work environment, especially: 
+when entering or leaving the workplace
+after coughing, sneezing or wiping the nose; 
+before and after eating; 
+after handling something that is frequently touched; 
+before putting on and removing protective equipment. 
+
+
+
+
+Respiratory etiquette
+
+
+Respecting respiratory etiquette consists of: 
+covering your mouth and nose when you cough or sneeze, and using tissues or the crook of your elbow; 
+using single-use tissues; 
+immediately discarding used tissues in the trash can; 
+frequent hand washing; 
+not touching your mouth or eyes with your gloved or bare hands.
+It is recommended that employers continue to provide free quality masks for workers who wish to still wear them (e.g. at-risk persons, persons who have had contact with a case).
+
+
+.
+
+Hygiene measures for tools, equipment and frequently touched surfaces 
+
+
+The Regulation respecting occupational health and safety (Regulation respecting OHS) outlines essential environmental hygiene measures.
+Ensure efficient operation and maintenance of the ventilation systems, according to the regulatory requirements for the type of facility and the tasks performed; 
+Clean the sanitary facilities at least every shift and disinfect them daily; (section 165 of the Regulation respecting OHS)
+Clean the meal areas before each meal and disinfect them daily(section 153 of the Regulation respecting OHS). 
+Resources are available online for more information concerning cleaning of surfaces or the recommended disinfectants.   
+Additional measures that can be implemented in the workplace
+Clean high-touch surfaces at least every shift and when they are visibly soiled.
+Clean shared tools and equipment after every shift.
+
+
+
+
+Transportation of workers
+
+
+Mechanical or natural ventilation, as the case may be, should be optimized. Moreover, the vehicle must be ventilated from the outside.
+Wearing a quality mask is no longer mandatory, but is recommended for the transportation of workers in cars, trucks, buses, airplanes and elevators.
+Moreover, workers might have to wear a mask when travelling by plane or train, depending on the applicable federal rules. Food and drinks can be consumed during transportation.
+Additional measures that can be implemented in the workplace
+When 2 or more people use a means of transport (e.g., car, truck, bus, airplane), workers must wear a quality mask at all times. For the driver, exceptions are listed below.
+The capacity of the means of transport is reduced to avoid any physical contact between the passengers.
+Conditions for exemption from wearing a quality mask at all times for a person driving a vehicle in the presence of passengers.
+Drivers can remove their quality mask when they are alone in their vehicle. They must put it back on as soon as a passenger or coworker enters.
+If prescription glasses fog up while driving, rigorous preventive measures must be put in place to ensure minimum protection of the driver.
+Maintain a distance of 2 metres or install physical barriers
+Limit times when quality masks are not worn to the strict minimum
+
+
+
+
+Work-Related Psychosocial Risks
+
+
+The COVID-19 context can be a major stress factor, whether for the employer or for the workers, suppliers, subcontractors, partners and clients, due to the upheaval it causes in the different spheres of society. Special attention must therefore be paid to the psychosocial health of personnel. 
+In the current context, the employer must pay special attention to cyberharassment, especially if part of the team is engaged in telework. It is also important to define expected behaviours and behaviours that are deemed inappropriate, such as incivility, including digital incivility, on the part of anyone in the workplace. 
+Furthermore, no violence of any kind should be tolerated between individuals (co-workers, superiors, subordinates), even if it originates externally (customers, users, suppliers, subcontractors). Employers are invited to display this information and inform their staff. 
+Having a healthy work environment is crucial and should be a top priority, especially in the context of a pandemic. Maintaining harmonious relations between the employer, workers and customers is absolutely critical. For example, the employer could create means of discussion to promote social support, especially if the tasks are performed by telework. In addition, employers should treat the concerns of their employees with respect. They should encourage employees to inform them of any difficulties they encounter so work–family balance measures can be put in place, if possible. 
+It is important to quickly identify the people who are most vulnerable to pandemic-related psychosocial risks. There are four categories of signs and symptoms of psychological dis¬tress: physical, cognitive, emotional and behavioural. To be significant, these symptoms must be accompanied by a change in habits and behaviours. New hires, reassignments, stress and fatigue related to this unusual situation may require special measures. It is important to direct workers experiencing psychological distress to the employee assistance program (EAP) or other supporting resources. 
+The implementation of various preventive measures in the work environment and good communication of information will allow the employer to respond to the concerns of each individual and thus reassure the workers and reduce their anxiety
+ 
+
+
+
+
+Legal obligations
+
+
+Legal obligations with respect to occupational health and safety, for both the employer and for workers, must be applied in the context of COVID-19. They are summarized below. 
+Employer 
+The employer has an obligation to protect the health, safety and physical well-being of their workers. The Act respecting occupational health and safety (AOHS) stipulates that the employer must take all the necessary measures to do so (section 51). This includes using methods to identify, correct and control risks. 
+In the context of COVID-19, the employer must ensure that the usual preventive measures are still appropriate. If not, they must modify them to protect workers against the risk of contamination. 
+The employer must also inform them about the risks associated with their work, including those associated with COVID-19. They must also provide workers with appropriate training, assistance and supervision so that everyone has the skill and knowledge required to safely perform the work assigned to them. 
+Worker 
+Every worker has an obligation to take the necessary measures to protect their health, safety or physical well-being and to ensure that they do not endanger the health, safety or physical well-being of other people in the workplace (section 49 of the AOHS). To do this, they must follow the rules and measures put in place in the context of COVID-19, just as they follow the other rules applied in the workplace. Workers must also participate in identifying and eliminating risks. If they see risks or have suggestions in this regard, they must inform the health and safety committee (if there is one), their superior or a representative of the employer. 
+The guide and the kit result from a reflective process intended to support the work environments in management of occupational health and safety in the context of COVID-19. The project is scalable and will harmonize with the preventive measures ordered by the public health authorities. 
+For more information, we invite you to consult the recommendations of the Réseau de santé publique en santé au travail published on the Institut national de santé publique website.
+ 
+
+
+
+
+Acknowledgments
+Thanks to our partners who participated in the development of the guide to sanitary standards.
+
+
+
+
+
+Secondary menu
+
+
+ Healthy workplace
+ Active page
+
+
+Return to work
+
+
+PS-Healthy workplace-Return to work/ Job search support services
+
+
+Protection of the employment relationship during an absence
+
+
+Return to work after a work-related injury or illness
+
+
+Occupational rehabilitation
+
+
+Gradual return to work proposed by the CNESST
+
+
+Temporary assignment
+
+
+Procedure for temporary assignment (in French only)
+
+
+Duty to accommodate
+
+
+Undue hardship (in French only)
+
+
+
+
+Harassment in the workplace
+
+
+Psychological or sexual harassment in the workplace
+
+
+Recognizing psychological or sexual harassment
+
+
+The consequences of psychological or sexual harassment
+
+
+What to do if you think you are being harassed
+
+
+Psychological or sexual harassment – Employers’ obligations
+
+
+Recognizing situations where there is a risk
+
+
+Examples
+
+
+
+
+Mediation
+
+
+Mediation service
+
+
+Preparing for mediation
+
+
+Understanding the mediator’s role
+
+
+
+
+COVID-19
+Active page
+
+
+COVID‑19 Toolkit
+
+
+Questions and answers – COVID-19
+
+
+CNESST flexibility measures
+
+
+
+
+Preventing workplace conflict
+
+
+Right to manage
+
+
+
+
+
+
+
+
+
+
+
+
+
+Help us improve our website
+
+
+
+
+Was the information on this page helpful to you?
+
+
+
+
+
+Yes
+
+
+
+No
+
+
+
+
+
+What information are you looking for? 
+
+
+We will use your comments to improve the information.
+Avoid entering personal or file-related information. Please note that you will not receive a reply.
+Any questions about a file? Use our online inquiry service.  
+Would you like to file a complaint? Consult our Complaints and recourses section.
+
+
+
+
+
+ 
+
+
+
+
+Leave this field blank

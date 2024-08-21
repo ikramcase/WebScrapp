@@ -1,0 +1,280 @@
+Overtime
+
+
+Calculation of overtime hours is based on a 40-hour workweek for most employees. Hours worked in excess of 40 hours are considered overtime.
+How is overtime calculated?
+Overtime hours must be paid at time and a half, which corresponds to a 50% increase in the regular hourly rate. Overtime pay can thus be calculated by multiplying the base hourly rate by 1.5.
+
+Example
+Sébastien is working in a printing shop. He is paid $20 an hour. Last week, he worked 45 hours. How does the employer calculate his overtime?
+The employer pays Sébastien his base wage of $20 x 40 hours = $800.
+He is paid at time and a half ($20 x 1.5 = $30) for each overtime hour.
+He worked 5 hours of overtime, so 5 x $30 = $150.
+Sébastien will receive $800 in regular pay, plus $150 in overtime pay, for a total of $950.
+
+Premiums that are added to the hourly rate, such as night or evening shift premiums, are not taken into account when calculating overtime.
+Overtime for statutory general holidays and annual vacation
+When calculating overtime, annual vacation and statutory general holidays are considered days worked.
+When a statutory general holiday falls on a day on which a worker would normally have worked, these hours must be added to the hours actually worked when calculating overtime.
+If the total of these hours exceeds the length of a standard work week, overtime will have to be paid at time and a half.
+This rule does not apply if the person never works on the day on which there is a statutory general holiday, for example, they never work on a Friday and the statutory general holiday falls on a Friday.
+
+Example
+Andrew works from Monday to Friday.
+Last Monday was a statutory general holiday. Therefore, Andrew is entitled to a paid leave.
+He worked 38 hours, from Tuesday to Friday.
+He usually works 8 hours on Mondays at an hourly rate of $15.00/h
+1. Hours to consider when calculating overtime
+38 hours worked
++ 8 hours considered time worked (holiday Monday)
+= 46 hours
+ 
+2. Calculation of overtime payable
+46 hours
+- 40 hours (standard work week )
+= 6 hours of overtime to be paid at time and a half
+ 
+3.Calculation of hours payable at the base rate
+38 hours worked
+- 6 hours of overtime
+= 32 hours payable at the base rate  
+4. Calculation of the week's pay
+Example of calculation
+Hours worked
+Calculation
+32 hours X $15.00 (base rate)
+= $480.00
+6 hours X $22.50 (overtime at time and a half)
+= $135.00
+Total
+= $615.00
+If the number of hours of work varies from day to day, the hours must be averaged to determine the number of hours to be considered as a day of work.
+ 
+
+Taking leave in lieu of payment of overtime
+Workers can ask their employer for time off in lieu of payment of overtime hours. In such a case, the overtime rate (1.5) is applied, rather than the regular rate. To calculate the total number of hours of leave, each hour of overtime so converted is multiplied by one and one half.
+
+Example
+Salima worked 8 hours of overtime and wishes to have them converted to time-off. The employer will multiply the 8 hours by the overtime rate (8 hr. x 1.5 = 12 hours). Salima will thus be able to have 12 hours of leave.
+
+These hours can be banked at the worker's request.
+Fixed rate wage with predetermined hours of work
+Workers who are paid a fixed rate wage and who work a predetermined number of hours are considered an hourly rate worker. Their hourly rate can be calculated by dividing their wage by the number of hours worked. Hours worked in excess of 40 hours are paid at time and a half.
+
+Example
+Nathalie is paid a wage of $1120 per week for 40 hours of work from Tuesday to Sunday. She worked 48 hours in the past week. How can her hourly rate be determined in order to calculate her overtime pay?
+The employer pays her a wage of $1120 per week.
+Nathalie works normally 8 hours per day from Tuesday to Sunday (8 hours per day x 5 days = 40 hours).
+To establish her hourly rate, her weekly wage is divided by the number of hours in her regular workweek ($1120 ÷ 40 hours = $28 per hour).
+She is paid at time and a half ($28 x 1.5 = $42) for each hour of overtime.
+Since she worked 8 hours of overtime, her overtime pay is 8 x $42 = $336.
+Nathalie will receive her weekly wage of $1120, plus $336 in overtime pay, for a total of $1456.
+
+Fixed rate wage without predetermined hours of work
+For those who work at a fixed rate without any predetermined hours of work, it is important to check whether they receive at least the equivalent of the minimum wage for all hours worked. The calculation must include any overtime hours paid at one and one half the minimum wage.
+
+Example
+Carlos is paid a wage of $950 per week as a sales representative. He worked 60 hours in the past week.
+Minimum wage is $15.25 .
+The normal workweek is 40 hours x $15.25  (minimum wage) = $540.
+Carlos is paid at time and a half ($15.25  x 1.5 = $21.38) for each hour of overtime.
+He worked 20 hours of overtime: 20 x $21.38 = $427.60. 
+Carlos' employer did not pay him any overtime for that week since Carlos' weekly wage of $950 is more than the $945 that he would have received if he was paid minimum wage ($540 at base rate + $427.60 for his 20 overtime hours at time and a half).
+
+
+
+
+        See also      
+
+
+Ma paye ça compte  
+
+
+
+Complaints and recourses
+
+
+
+
+
+
+        Forms and publications      
+
+
+Les normes du travail au Québec (Document d’information)
+
+
+
+
+
+
+        Laws and regulations      
+
+
+Loi sur les normes du travail (LNT) – Articles 39.1 à 51.1
+
+
+
+
+
+Interpretation Guide – Section 39.1 to 51.1
+
+
+
+
+
+
+
+
+
+
+Secondary menu
+
+
+ Wages and Pay
+ Active page
+
+
+Wages
+Active page
+
+
+Minimum wage
+
+
+Wages - Employees receiving tips
+
+
+Tip sharing arrangement
+
+
+Commission-based wages
+
+
+Piece work wage
+
+
+Strawberry and raspberry picking
+
+
+Wage disparity
+
+
+Overtime
+
+
+Employment contract
+
+
+
+
+Right to a fair wage
+
+
+The CNESST’s role in pay equity
+
+
+Pay equity training sessions
+
+
+
+
+Pay
+
+
+Pay slip
+
+
+Deductions
+
+
+Meal and accommodation costs
+
+
+Special clothing and equipment required at work
+
+
+Material, equipment or merchandise that is required at work
+
+
+
+
+
+
+
+
+
+
+
+Frequently asked questions
+
+
+
+  Did you know that the payment of overtime at time and a half does not apply to certain categories of workers? 
+
+
+
+Among the categories are:
+a student employed by a social or community non-profit organization
+the managerial personnel of an enterprise
+an employee who works outside the establishment and whose working hours cannot be controlled
+the worker assigned to canning, packaging and freezing fruits and vegetables during the harvest period
+the employee of a fishing, fish processing or fish canning establishment
+a farm worker
+a worker whose exclusive function is to take care of or provide care to a child or to a sick, handicapped or aged person in that person's dwelling, including, where so required, the performance of domestic duties that are directly related to the immediate needs of that person, unless the work serves to procure profit to the employer.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Help us improve our website
+
+
+
+
+Was the information on this page helpful to you?
+
+
+
+
+
+Yes
+
+
+
+No
+
+
+
+
+
+What information are you looking for? 
+
+
+We will use your comments to improve the information.
+Avoid entering personal or file-related information. Please note that you will not receive a reply.
+Any questions about a file? Use our online inquiry service.  
+Would you like to file a complaint? Consult our Complaints and recourses section.
+
+
+
+
+
+ 
+
+
+
+
+Leave this field blank

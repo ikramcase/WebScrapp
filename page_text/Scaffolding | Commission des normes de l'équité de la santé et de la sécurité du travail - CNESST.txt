@@ -1,0 +1,131 @@
+Scaffolding
+
+
+Workers who use a scaffold to perform work at heights are exposed to several hazards, such as the scaffold collapsing or overturning. To avoid these hazards, scaffolding must be erected in accordance with certain safety rules.
+The main risk of collapse or overturning are a support footing giving way, failure to secure the scaffold to the construction, the overloading of work platforms or wind force when tarpaulins are used to protect materials from bad weather.
+Workers must also observe safety rules when working on a scaffold. These rules will prevent materials from falling on people on the ground or on a lower level or falls from a height. These accidents can cause serious injury, paralysis or death.
+Safety rules for all workplaces where scaffolding is used
+
+ Zero tolerance 
+If any of these rules are not followed, the CNESST will stop the work and those at fault will be liable to criminal prosecution.
+Zero tolerance sheet : Scaffolding 
+To prevent the risk of a scaffold collapsing or overturning, the employer must:
+secure the scaffold to a building or structure with anchors, or to the ground with guys
+	 
+	s. 3.9.2 of the CSTC
+s. 3.9.10 of the CSTC
+s. 33(1) RSST
+		 
+
+make sure the metal uprights are set on plates and planks
+	 
+	Reference to section 5.7 of CSA Standard Z797-09
+
+	5.7. Base plates and screw jacks
+	Base plates must be installed under each upright. Adjustable base plates or screw jacks should be used, as they allow for minor adjustments to keep the scaffold level and plumb. The screw jack must be inserted into the upright in accordance with the manufacturer's recommendations, or at least one third of the screw jack’s length.
+	The base plates of the scaffold must be centred over the sills and should be nailed to them in the holes provided for this purpose. This should be done as soon as the first scaffold frame or level has been erected and plumbed.
+	 
+	ss. 3.9.5(1) and (1.1) of the CSTC
+s. 33(3) of the RSST
+s. 51(7) of the LSST
+
+
+Other mandatory safety measures
+
+Depending on the tasks to be performed, one or more of the following measures must also be taken by the employer to ensure the safety of the worker :
+The entrance to the scaffold platform must be clear of obstacles and via a ladder, stairs or the interior of the building.
+		 
+		s. 3.9.11 of the CSTC
+			 
+
+Platforms must be at least 470 mm wide and clear of all obstacles, and the edges must be less than 350 mm from the construction. The components of the platform must be installed so that they cannot slide or topple.
+		 
+		s. 3.9.8 of the CSTC
+			 
+
+The components of the scaffolding must be in good condition and properly installed.
+		 
+		ss. 3.9.2(a) and 3.9.3.3
+s. 3.9.9(c) of the CSTC
+			 
+
+Scaffolding must be fitted with guardrails when workers are exposed to a risk of falling more than 3 m.
+		 
+		s. 2.9.2(3) of the CSTC
+s. 33.4 of the RSST
+			 
+
+The wheels and castors on mobile scaffolding must be fitted with brakes or another braking device.
+		 
+		s. 3.9.19 of the CSTC
+			 
+
+Scaffolding must not be erected in proximity to power lines.
+		 
+		s. 5.2.1 of the CSTC
+			 
+
+Before installation, plans signed and sealed by an engineer must be sent to the CNESST and be available on request for any metal scaffolding more than 18 m in height.
+		 
+		ss. 2.4.1(2)(e) and 2.4.1(5)
+			 
+
+When a safety tarpaulin or net is installed on a scaffold, the number and type of anchors must comply with an engineer’s plan or the manufacturer’s recommendations. For scaffolding less than 187 m in height, the anchors may also comply with the requirements of the CSTC, depending on whether it is a tarpaulin or net, as well as on the region where the scaffolding is installed.
+		 
+		s. 3.9.10 of the CSTC and Schedule 0. 
+
+
+Protective measures
+Scaffold guardrail
+Horizontal safety rail
+Harness and fall arrest device
+
+
+
+
+
+
+
+
+
+
+
+
+      Forms and publications    
+
+
+Fiche tolérance zéro - Effondrement : Danger d'effondrement d'un échafaudage (Document d’information)
+
+
+
+Échafaudages, type : sur cadres métalliques - Guide d'installation et d'utilisation (Document d’information)
+
+
+
+Échafaudages, composant : garde-corps - Guide d'utilisation et d'utilisation (Document d’information)
+
+
+
+Échafaudages, composant : Planchers - Guide d'installation et d'utilisation (Document d’information)
+
+
+
+Précautions à prendre avant d'utiliser un échafaudage sur cadres pour travaux légers (Document d’information)
+
+
+
+
+
+
+
+
+      Laws and regulations    
+
+
+Loi sur les accidents du travail et les maladies professionnelles (LATMP)
+
+
+
+
+
+Loi sur la santé et la sécurité du travail (LSST)

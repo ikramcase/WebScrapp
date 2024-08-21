@@ -1,0 +1,106 @@
+Electricity
+
+
+Electricity is an essential source of energy, but it is crucial to control it so as not to endanger oneself.
+In some sectors, workers have to work near live overhead power lines. For example, on construction sites when erecting structures, renovating roofs or any other task where workers are required to work at a height. Pruning, felling, streetlight maintenance or putting up billboards are also hazardous tasks.
+Working too close to a live power line can cause an electric shock (an electric current passes through the body and can cause injuries), severe burns, a fall or even electrocution (when the level of electric current passing through the body is fatal). To prevent this type of accident, the employer must implement measures to provide a safe workplace for their work team. For their part, workers are responsible for applying these measures and maintaining the required distances from power lines.
+Safety rules
+
+Zero tolerance
+If any of these rules are not followed, the CNESST will stop the work and those at fault will be liable to criminal prosecution.
+Zero tolerance sheet: Electricity
+When working near an overhead power line, the employer must ensure that one of the following preventive measures is applied:
+the power line is shut off
+there is a written agreement with the electric power company, such as Hydro-Québec, on the safety measures to be taken and the agreement is made available
+people, parts, equipment and machinery are further from the line than the minimum approach distances set out in the Regulation, for example, over 3 m if the line voltage is less than 125 kV (other distances may apply depending on the line voltage). Any wheeled and extendable equipment used must be fitted with a range limiting device to ensure the required distances are maintained
+	 
+	ss. 5.2.1 and 5.2.2 of the CSTC
+s. 331 of the RSST
+s. 51(3) of the LSST  
+
+
+Other mandatory safety measures
+
+Depending on the tasks to be performed, one or more of the following measures must be taken by the employer to ensure the safety of the worker:
+when the work takes place on a construction site, inform the CNESST in the notice of the opening of the site that work is being carried out near a power line
+		 
+		s. 2.4.1.1 of the CSTC
+			 
+
+for work carried out in proximity to low voltage power lines (750 volts or less), there must be insulation between the worker and non-insulated live parts
+		s. 5.1.2 g) of the CSTC
+			 
+
+before carrying out excavation work, make a locate request to Info-Excavation (gas, water mains, power line, etc.)
+		 
+		s. 3.15.1 of the CSTC
+s. 51(3) of the LSST
+
+
+Preventive measures
+Required distances when working near a power line
+
+3 m from a power line of less than 125 kV
+5 m from a 125 to 250 kV power line
+8 m from a 250 to 550 kV power line
+12 m from a power line of more than 550 kV
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      See also    
+
+
+Danger près des lignes électriques - vidéo
+
+
+
+
+
+
+
+
+      Forms and publications    
+
+
+Fiche tolérance zéro - Électricité : Danger d'électrisation avec une ligne électrique aérienne sous tension (Document d’information)
+
+
+
+Travaux d'élagage des arbres près d’une ligne électrique sous tension (Document d’information)
+
+
+
+Avis d'ouverture et de fermeture d'un chantier de construction (Formulaire)
+
+
+
+Travail à proximité des lignes électriques - procédé de travail (Formulaire)
+
+
+
+
+
+
+
+
+      Laws and regulations    
+
+
+Loi sur les accidents du travail et les maladies professionnelles (LATMP)
+
+
+
+
+
+Loi sur la santé et la sécurité du travail (LSST)

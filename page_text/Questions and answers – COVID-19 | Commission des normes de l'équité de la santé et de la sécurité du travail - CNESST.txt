@@ -1,0 +1,696 @@
+Questions and answers – COVID-19
+[ Last update: March 17, 2023 ]
+
+Important
+Adjustments in the workplace (in french only)
+
+
+Search by Keyword
+Search No result.Type a term you are searching for into the text field to highlight it in the questions and answers below.
+
+Questions and Answers by subject
+News
+Prevention
+Volunteer workers
+Temporary foreign workers section
+Labour standards section
+Compensation section
+For a Safe Maternity Experience Program (FSMEP)
+Miscellaneous medical care
+Medical assessments and examinations requested by the CNESST
+Temporary reassignment
+Miscellaneous
+
+
+
+
+
+News
+
+
+
+1.  What is the required period of isolation following exposure to or infection with COVID-19? 
+
+
+According to the most recent public health recommendations, you are no longer required to isolate for 5 days following exposure to or infection with COVID-19.
+Sound habits for preventing infectious respiratory infections (COVID-19, flu, etc.) are summarized on this webpage.
+The CNESST is not responsible for determining who must isolate or the duration of this isolation.
+For workers who work in health care settings, the applicable measures are described in the Directive sur la levée de l'isolement des travailleurs de la santé et des services sociaux (in French only).
+
+
+
+
+
+2.  How can an employer check a worker's vaccination status?
+
+
+Vaccination status is personal and confidential information. A worker is not obliged to disclose this information. 
+A worker may voluntarily show their vaccination status to their employer. The employer must keep this information confidential.
+
+
+
+
+
+3.  Can an employer require a worker to take a COVID-19 test to provide medical proof of their health status, namely to take a COVID-19 test? 
+
+
+For an absence due to illness, the Act respecting labour standards (ALS) provides that if warranted by the circumstances, in particular the length of the absence or its repetitive nature, an employer may request a document (e.g., medical certificate) attesting to these reasons.
+Given the current pandemic situation, in order to prevent the spread of the virus, workers are advised to use their judgment before going to hospitals and medical clinics (public or private).
+In the event that an employer asks a worker to leave during their shift to obtain a medical certificate or to comply with any other requirement, their travel time should be remunerated. Under the ALS, a worker is deemed to be at work if their travel is required by their employer.
+If the worker remains available to the employer and performs their work, for example by teleworking, while waiting for the document attesting to their medical condition to be issued, and they must be paid during this time.
+
+
+
+
+
+4.  What specific COVID-19 prevention measures are required by the CNESST?
+
+
+Wearing a quality mask, maintaining a minimum distance of one metre between people in the workplace outside a care setting and physical barriers are no longer be mandatory since May 14, 2022, but they are still recommended for preventing respiratory infections (COVID-19, flu, etc.). Since June 18, these adjustments also apply to the transportation of workers (ex. bus, car), but not to certain health care settings more exposed to COVID-19.
+Health care settings more exposed to COVID-19 refer to:
+Hospitals,
+Medical clinics,
+Family medicine groups (FMGs),
+Residential and long-term care centres [CHSLDs and private seniors’ homes for non-autonomous residents (care unit)]
+COVID-19 clinics and COVID-19 testing centres, 
+Intermediate resources in the Support Service Program for the Autonomy of Seniors [SAPA] not covered by the Act respecting the representation of resources).
+As a precaution, wearing a mask and washing your hands with soap and water or hand sanitizer with at least 60% alcohol are highly recommended, especially in the presence of symptoms of a respiratory infection, when interacting with people at risk or for tasks where people are required to gather in a confined space. It should be noted that an employer may require their staff to comply with additional preventive measures, including wearing a quality mask in the workplace, under their right to manage.
+
+
+
+
+
+5.  Can additional preventive measures be put in place to face the surge in respiratory infections?
+
+
+In this context, the CNESST proposes additional preventive measures for workplaces in its general guide on workplace sanitary standards that can be included on a voluntary basis, in whole or in part, in the preventive measures plan. Workplaces may decide to implement these measures to increase the protection of workers depending on the circumstances, for example:
+if multiple positive COVID-19 cases or several cases of respiratory infection (e.g. flu) are confirmed in the workplace
+when the absenteeism rate is high
+during close contacts with co-workers or clients
+when recommended by Public Health (e.g. press conference, public notice)
+These proposed additional measures are compiled in a summary table.
+
+
+
+
+
+6.  Can my employer refuse to allow me to telework?
+
+
+Telework has no longer been mandatory since February 28, 2022.
+The organization of work and the arrangements for telework are part of the employer's right to manage. Telework is highly recommended if the worker has a fever or symptoms of a respiratory infection
+Information and awareness-raising tools are available on the CNESST's web page on telework.
+
+
+
+Prevention
+
+
+7.  What is the CNESST’s role regarding the COVID-19 pandemic?
+
+
+The CNESST is the government body in charge of administering the occupational health and safety plan. In matters of prevention, it is responsible, in particular, for monitoring compliance with the Act respecting occupational health and safety and its regulations and for ensuring that workplaces meet occupational health and safety requirements.
+The CNESST plays a leading role in prevention in the current context and works in collaboration with the Direction générale de la santé publique. From the outset, inspectors were deployed throughout Québec to support workplaces in their management of occupational health and safety.
+From the outset, inspectors were deployed throughout Québec to help workplaces implement adequate occupational health and safety measures.
+The inspectors take action, particularly in workplaces where employees have exercised their right to refuse to work under the Act respecting occupational health and safety (AOHS), where complaints have been filed or where serious industrial accidents have taken place. They are authorized to verify compliance with the AOHS and regulations and, if necessary, demand that unsafe situations be rectified. Thus, they can intervene to check whether the employer has put in place the preventive measures required to protect the health and safety of workers. For information purposes, between March 13, 2020, and February 26, 2023, inspectors conducted more than 33,701 interventions concerning COVID 19, in particular following 8,159 complaints and 55 rights of refusal under the AOHS. Since January 1, 2023, there have been 3 interventions.
+
+
+
+
+8.  To support workplaces, what has the CNESST implemented?
+
+
+To support workplaces with respect to occupational health and safety management, the CNESST has developed awareness raising and information tools. A COVID-19 toolkit is available on its website and includes a guide on COVID-19 health standards and quick reference tools. These tools were developed by the CNESST in collaboration with union and employer representatives and in partnership with the Direction générale de la Santé publique and the Institut national en santé publique du Québec (INSPQ) to address the concerns of workplaces in various sectors of activity regarding the measures to be put in place to prevent the spread of the virus.
+COVID‑19 toolkit
+Prevention-inspection inspectors also provide support to address concerns and provide information to workplaces, in particular on employer and worker obligations with respect to the preventive measures that must be put in place to reduce the biological risk associated with COVID‑19 that may affect workers' health. For this service, you must call the CNESST's general number and ask to speak to an inspector on call at 1 844 838‑0808 option 1.
+
+
+
+
+9.  Can an employer take measures to protect the health of workers against respiratory infections?
+
+
+Yes, an employer must take the necessary measures to protect the health and ensure the safety and physical and psychological well-being of workers, as provided for in section 51 of the Act respecting occupational health and safety (AOHS). To this end, the employer must take measures to identify, control and eliminate the biological risk. Here are some examples of preventive measures that can be implemented to reduce this risk:
+Encourage telework in hybrid mode, where possible
+Develop a procedure for excluding workers who have symptoms of a respiratory infection from the workplace
+Encourage physical distancing of two metres
+Encourage the use of effective physical barriers at certain work stations (e.g., during brief contacts with several people)
+Make quality masks available and ask workers to wear them when interacting with vulnerable workers or for tasks where people are required to gather in a confined space
+Provide, if deemed appropriate by the employer in collaboration with workers, designated spaces for workers whose health is vulnerable, such as people who have a chronic disease or are immunosuppressed
+Promote handwashing and cough and sneeze etiquette (cough and sneeze into a tissue or into your elbow)
+Prepare a plan for increased preventive measures in anticipation of periods of high transmission. Additional measures are proposed in the CNESST's health standards guide.
+Workers should be informed of the risks and preventive measures should be taken to reduce and control them.
+In accordance with section 49 of the AOHS, workers must take the necessary measures to ensure their health, safety and physical well-being and see that they do not endanger the health, safety or physical well-being of other persons at or near their workplace.
+Suppliers, subcontractors, partners and customers have been informed of the measures implemented by the company and have been made aware of the importance of complying with these measures.
+Here are basic public hygiene measures.
+Wash your hands often with warm running water and soap for at least 20 seconds.
+Use an alcohol-based disinfectant if soap and water are not available.
+Always follow proper hygiene when coughing or sneezing.
+Cover your mouth and nose with your arm to reduce the spread of germs.
+If you use a tissue, throw it away as soon as possible and then wash your hands.
+If you have COVID‑19-like symptoms, stay at home and call 1 877 644-4545 (toll free) or 811 if necessary.
+Avoid direct contact for greetings (e.g., handshakes). Use other methods instead.
+Respect physical distancing.
+For more information, please consult the fact sheets produced by our partner, Institut national de la Santé publique du Québec.
+
+
+
+
+
+10.  Have any specific measures been taken to reduce and control work-related psychosocial risks?
+
+
+In the current context, employers should pay particular attention to cyber-harassment, especially if part of the team is working from home. It is also important to define expected behaviours and behaviours that are deemed inappropriate, such as incivility, including digital incivility, on the part of anyone in the workplace.
+Furthermore, no violence of any kind should be tolerated between individuals (co-workers, superiors, subordinates), even if it originates externally (customers, users, suppliers, subcontractors). Employers are invited to display this information and inform their staff. Having a healthy work environment is crucial and should be a top priority, especially in the context of a pandemic. Maintaining harmonious relations between the employer, workers and customers is absolutely critical.
+The employer could, for example, establish means of communication to promote social support, especially if work is done from home. In addition, employers should treat the concerns of their employees with respect. They should encourage employees to inform them of any difficulties they encounter so work–family balance measures can be put in place, if possible. It is important to quickly identify the people who are most vulnerable to pandemic-related psychosocial risks.
+There 4 categories of signs and symptoms of psychological distress: physical, cognitive, emotional and behavioural. To be significant, these symptoms must be accompanied by a change in habits and behaviours. New hires, reassignments, stress and fatigue related to this unusual situation may require special measures. It is important to direct workers experiencing psychological distress to the employee assistance program (EAP) or other supporting resources.
+A generic quick reference guide on psychosocial risks in the workplace has been developed.
+Here are some useful phone numbers to call if you need help:
+Construire en santé Program: 1-800-807-2433
+Info-Social psychosocial telephone counselling service: 811
+Centre prévention du suicide (suicide prevention centre): 1-866-277-3553
+
+
+
+
+11.  Can my employer force me to stay home if I have symptoms of a respiratory infection? 
+
+
+Yes, the employer can take additional preventive measures. The employer can ask workers not to report for work if they represent a risk of contamination for other workers and deny them access.
+
+
+Refusal to work/ Preventive withdrawal (exposure to a contaminant)
+
+
+12.  Can employees refuse to work if they think they may be infected with COVID-19? 
+
+
+A worker must take the necessary measures to ensure his health, safety or physical or psychological well-being and see that he does not endanger the health, safety or physical and psychological well-being of other persons at or near his workplace. A worker who is experiencing symptoms should inform their employer of these symptoms.
+The employer must ask the worker about the risk factors underlying the need for self-isolation. If the employee refuses to comply, the employer may inform the employee that administrative or disciplinary action may be taken.
+For more details on the steps the government is taking to curb the spread of the virus, go to quebec.ca/en/coronavirus.
+In closing, it is important to note that the employer must take all the necessary measures to protect the health and ensure the safety and physical and psychological well-being of the worker (s. 51, AOHS). They may choose the means they will use to comply with this obligation.
+
+
+
+
+13.  Can workers whose health is vulnerable, such as people with one or more chronic diseases, refuse to work? 
+
+
+Workers whose health is vulnerable are not prohibited from working. The INSPQ has developed recommendations to protect workers who are likely to develop complications as a result of a COVID-19 infection because of their age or a chronic disease.
+Workers who are likely to develop complications as a result of an infection can talk to their employer to find out how their work environment can be modified.
+
+
+
+
+14.  Can I be put on preventive withdrawal due to COVID-19 (exposure to a contaminant)?
+
+
+Section 32 of the Act respecting occupational health and safety (AOHS) stipulates that a worker exposed to a contaminant may request to be re-assigned to duties that do not entail such exposure. To this end, the worker must give the employer a medical certificate attesting that exposure to this contaminant is hazardous to the worker in view of the fact that the latter’s health shows signs of deterioration. The employer must then re-assign the worker to duties that involve no such risk. If the employer cannot re-assign the worker, a request for preventive withdrawal may be made to the CNESST.
+However, a medical assessment confirming that the worker’s health has been affected is required. If the worker has already been infected with COVID-19, then the recourse provided for in section 32 of the AOHS is inappropriate, since its purpose is to prevent infection.
+If a worker has reasonable grounds to believe that they are at risk of contracting the virus in the course of their work, section 12 of the AOHS stipulates that they have the right to refuse to work in order to ensure their health, safety and physical well-being.
+In addition, if a worker with COVID-19 believes that they were infected as a result of or during their work, they may be entitled to compensation under the Act respecting industrial accidents and occupational diseases (AIAOD).
+For all COVID-19 claims, the worker must consult a physician to obtain a medical certificate that confirms the diagnosis.
+
+
+
+
+15.  What recourses are there for employees whose work may be hazardous to their health?
+
+
+Workers can file a complaint or report a dangerous situation. Complaints are reviewed to assess the risk and to determine if corrective and control measures are in order. To file a complaint, call the CNESST at 1-844-838-0808 and ask for an on-call inspector. This recourse is voluntary and confidential.
+Sections 12–13 of the Act respecting occupational health and safety (AOHS) stipulate that “a worker has a right to refuse to perform particular work if he has reasonable grounds to believe that the performance of that work would expose him to danger to his health, safety or physical well-being, or would expose another person to a similar danger. No worker may, however, exercise his right under section 12 if his refusal to perform the work puts the life, health, safety or physical well-being of another person in immediate danger or if the conditions under which the work is to be performed are ordinary conditions in his kind of work.”
+Should a worker refuse to work, a CNESST inspector will promptly determine if there is any risk and will make sure that the procedure set out in the AOHS has been followed, i.e., that the worker has notified the immediate superior, the employer or its representative, and informed the union association representative or the prevention representative, as applicable.
+In addition, the AOHS also provides for the reassignment of pregnant and breastfeeding workers through its For a Safe Maternity Experience Program (FSMEP) and seeks to ensure that pregnant and breastfeeding workers remain safely employed.
+
+
+​​​
+
+Protection for a worker whose spouse or dependent is a carrier of a condition at risk of complications from COVID-19
+
+
+16.  Does the Act respecting occupational health and safety offer protection to a worker whose spouse or dependent has a condition at risk of complications from COVID-19?
+
+
+Sections 12 of the AOHS stipulates that a worker has a right to refuse to perform particular work if he has reasonable grounds to believe that the performance of that work would expose him to danger to his health, safety or physical or psychological well-being, or would expose another person to a similar danger.
+The grounds invoked here cannot justify a right of refusal, because it is not related to the conditions of performance of the work, but rather to a medical condition of a third party. This is a situation unrelated to the work environment. The criteria to be met to exercise a right of refusal thus are not satisfied.
+
+
+
+
+
+17.  Does the Act respecting occupational health and safety or the Act respecting labour standards offer protection to a worker with a personal condition who is at risk of complications from COVID-19 (e.g., immunosuppressed)?
+
+
+The Act respecting labour standards does not provide rules applicable to a person with a personal condition who is at risk of complications. 
+In terms of occupational health and safety, the INSPQ has defined groups of workers who are more at risk of developing complications related to COVID-19. 
+The personal conditions associated with a risk of complications from COVID-19 are listed in the interim recommendations published by the INSPQ:
+For workers with a chronic disease
+For immunosuppressed workers
+Workers who are likely to develop complications as a result of an infection can talk to their employer to find out how their work environment can be modified.
+If in doubt, the person should consult their doctor.
+
+
+Protective equipment
+
+
+18.  What type of respiratory protective equipment (RPE) is accepted by the CNESST? 
+
+
+Pursuant to section 45 of the Regulation respecting occupational health and safety (ROHS), the CNESST requests that the RPE used in the workplace be listed in the Guide des appareils de protection respiratoire utilisés au Québec published by the Institut de recherche Robert-Sauvé en santé et en sécurité du travail (IRSST). This guide corresponds to the list of equipment certified by the National Institute for Occupational Safety and Health (NIOSH). In this context, the CNESST accepts that all the RPE is certified by NIOSH. Administrative guidelines may, however, allow for exceptions.
+In the context of the pandemic, the CNESST accepts the use, in accordance with their approval framework and the manufacturers' directives, of RPE from other approval frameworks. The RPE authorized in the workplace is as follows:
+Approved by NIOSH (other types of RPE)
+Certified by the CSA under Program 7204 01, 7204 02 and 7204-03
+Approved by Health Canada when a quality monitoring mechanism involves a competent external laboratory (e.g., IRSST)
+Employers must take the necessary measures to protect the health and ensure the safety and physical well-being of workers as provided for in section 51 of the Act respecting occupational health and safety.
+Some RPE that provides equivalent protection may, for example, require additional training and very likely additional fit testing to ensure a proper seal. A proper seal is necessary to limit inward leakage that may expose the worker to coronavirus or other contaminants present in the air. It should be noted that the same fit test is valid when the manufacturing process is identical, regardless of the origin of the RPE certification. This information can be obtained from the manufacturer.
+In some cases, technical solutions to reduce worker exposure (e.g., water abatement, ventilation and containment) or administrative measures (e.g., distance) can be implemented. These solutions must be prioritized before the use of personal protective equipment. Following the implementation of these solutions, workers may no longer be required to wear RPE to protect themselves from contaminants present in the air.
+
+
+
+
+19.  When are workers required to wear a quality mask at work?
+
+
+Since June 18, 2022, quality masks are no longer mandatory, except in health care settings more exposed to COVID-19 (COVID-19 clinics, COVID-19 screening centres, hospitals, medical clinics, family medicine group and residential and long-term care centre durée [CHSLDs and private seniors’ homes for non-autonomous residents(care units)] and intermediate resources in the Support Service Program for the Autonomy of Seniors [SAPA] not covered by the Act respecting the representation of resources). However, wearing a quality mask is still recommended, especially when interacting with vulnerable workers as well as for tasks where people are required to gather in a confined space. Under their right to manage, an employer may require their workers to wear a quality mask in the workplace.  
+To protect workers against COVID-19, the following quality masks may be used:
+Medical masks that comply with standard ASTM F2100 or EN 14683 Type IIR; 
+Masks certified by the Bureau de normalisation du Québec (BNQ) in accordance with the 1922-900 certification booklet (BNQ website);
+Any respiratory protective equipment (RPE) with a particulate filter as defined in the standard Selection, use and care of respirators (CSA Z94.4-18), such as an N95 or P100 respirator.
+Protective eyewear is optional. However, it may be required to comply with current regulations or in some workplaces, such as those where people with COVID-19 are treated.
+Also, as provided for in section 3 of the AOHS, “The fact that collective or individual means of protection or safety equipment are put at the disposal of workers where necessary to meet their special needs must in no way reduce the effort expended to eliminate, at the source, dangers to the health, safety and physical well-being of workers.”
+A face covering is NOT appropriate protective equipment at work. It can be worn by workers in addition to the measures described above.
+
+
+
+
+20.  Do public transit, intercity bus and school bus drivers have to wear a quality mask at all times while driving their vehicle?
+
+
+Since June 18, 2022, drivers will no longer be required to wear a quality mask, even if minimum distancing is not respected or if there is no physical barrier. 
+
+
+
+
+21.  What quality masks must be worn in a workplace?
+
+
+The following quality masks may be used in these circumstances:
+Medical (procedure) masks:
+	The manufacturing quality of medical or procedure masks must be certified in order to guarantee a minimum level of protection against COVID-19. In North America, the American Society for Testing and Materials (ASTM) standard ASTM F2100 has established performance criteria. Note that all levels of ASTM F2100 masks may be used.
+Type IIR masks certified in accordance with the EN 14683 standard also provide adequate protection.
+
+Note on medical masks:
+Santé Canada and the Food and Drug Administration (FDA) created a list of medical masks tested in accordance with standard ASTM F2100 Level 1. 
+To find out if a medical mask that is not on these lists meets the requirements of one of the above standards, the employer must obtain documentary evidence from the manufacturer or their supplier (e.g., label, technical sheet or analysis report).
+The INSPQ recommends changing the medical mask if it is wet, visibly soiled, damaged or if breathing is difficult. The maximum length of time a medical mask should be worn is 4 hours.
+Masks certified by the Bureau de normalisation du Québec (BNQ)
+	The manufacturing quality of these masks is governed by the 1922-900 certification booklet
+BNQ-certified masks may have a distinctive mark making them easily identifiable
+Since manufacturers are allowed a transition period, some BNQ-certified masks do not have this mark of compliance. The user can consult the list of manufacturers and certified mask batch numbers on the BNQ website
+Any respiratory protective equipment (RPE) with a particulate filter as defined in the standard Selection, use and care of respirators (CSA Z94.4-18), such as an N95 or P100 respirator
+
+Note on RPE:
+In some circumstances and in the presence of other risks (air contaminant), a worker may wear RPE. To provide protection against the risk associated with COVID‑19, RPE must have a particulate filter. Where applicable, a BNQ mask or a medical mask does not have to be worn.
+
+
+
+
+22.  Are medical masks with a window acceptable? 
+
+
+Masks with a window allow people to see workers' lips. This type of mask makes it easier for people who are hard of hearing to understand. It also promotes speech development in children during their development. For these masks to be acceptable, they must meet the same quality criteria applicable to quality masks without windows. The criteria are as follows:
+ASTM F2100 (all levels are acceptable for general workplaces)
+Standard EN 14683, Type IIR
+Certification by the Bureau de normalisation du Québec (1922-900)
+
+
+
+
+23.  Is it necessary to have an N-95 against the risks of transmission of COVID-19?
+
+
+At this time, health care workers are required to wear a disposable N95 mask or respiratory protective equipment (RPE) that provides superior protection if they work in a health care setting with users at moderate or high risk of COVID-19 or with suspected or confirmed COVID-19.
+To ensure optimum performance of this APR, a respiratory protection program including a fit testing and training on how to wear and maintain it must be implemented. However, APR may be necessary in cases where the workers already use respirators filtering particles (for example, N‑95 or P100) for protection against another contaminant present in the work environment. Note that these respirators units will also protect the workers from the COVID‑19 virus.
+
+
+ 
+
+
+24.  What are the minimum protective equipment requirements for health care workers (hospitals; acute care; medical clinics, FMGs, COVID-19 testing centres, outpatient clinics, COVID-19 clinics, home care, long-term care facilities [CHSLDs, RPAs and intermediate resources in the Support Service Program for the Autonomy of Seniors [SAPA])?
+
+
+The Commission des normes, de l'équité, de la santé et de la sécurité du travail (CNESST) requires all health care workers (health care, maintenance, security, etc.) working in the same room as a user at high risk of COVID 19 or with suspected or confirmed COVID-19) to wear an N95 respirator or respiratory protective equipment (RPE) that provides superior protection.  
+Measures for users at low risk of COVID-19
+For all workers in health care settings more exposed to COVID-19 (hospitals, medical clinics, COVID-19 clinics, COVID-19 testing centres, family medicine groups, residential and long-term care centres [CHSLDs and private seniors’ homes for non-autonomous residents (care units)] and intermediate resources in the Support Service Program for the Autonomy of Seniors (SAPA) not covered by the Act respecting the representation of resources), appropriate personal protective equipment for the level of risk is provided and worn:  
+	An ASTM F2100 Level 2 or EN 14683 Type IIR medical (procedure) mask must be worn.
+Protective eyewear is optional. However, it may be necessary for other considerations, such as when there is a risk of being splashed by biological fluids.
+
+In other health care settings (outpatient clinics, home care, private seniors’ homes for autonomous residents, etc.), unless otherwise directed by the employer, a medical mask is not required when performing tasks in the same room as a user at low risk for COVID-19.
+Additional measures for users at moderate risk of COVID-19
+For all workers, appropriate personal protective equipment for the level of risk is provided and worn: 
+	Appropriate personal protective equipment for the level of risk is provided and worn: :
+		N95 respirator or respiratory protective equipment (RPE) that provides superior protection;NOTE: Exceptionally, if the employer can show that supply difficulties are preventing them from providing RPE to workers working in the same room as a user at moderate or high risk of COVID-19 or with suspected or confirmed COVID-19, the use of medical masks (ASTM F2100 Level 2) by these workers is a temporary measure while waiting on the required RPE. Available RPE should be offered as a priority to workers in contact with users with confirmed COVID-19
+protective eyewear (safety goggles or visor that covers the face down to the chin or RPE with integrated eye protection);
+non-sterile long-sleeved gown (single-use or washable). Provide a waterproof gown if there is a risk of contact with body fluids such as vomit;
+non-sterile single-use gloves that fit snugly and cover the wrists;
+
+Workers who are required to perform tasks with this equipment are adequately trained to use RPE and a fit test is done before RPE is used.NOTE: If the employer can show that logistical difficulties are preventing them from offering fit tests to workers, the use of RPE by these workers without prior fit tests is a temporary measure while waiting on the fit tests. In this case, the employer must plan fit tests for their staff. An inspector may require that the plan be sent to them.
+To avoid contamination of the work environment when removing personal protective equipment, it should be removed according to the recommended procedure of the ASSTSAS (in French only) or of ASPC (p. 153-154)]. Adopting good technique when removing equipment also allows the worker to avoid contamination.
+
+Additional precautions if entering a room where aerosol generating medical procedures are performed - user at moderate or high risk of COVID-19 or with suspected or confirmed COVID-19):
+The equipment already required (protective eyewear, long-sleeved gown and gloves), an N95 respirator or an RPE that provides superior protection worn if entering a room where aerosol generating medical procedures (AGMPs) are performed;
+Workers who are required to perform these procedures are adequately trained to use RPE and a fit test is done before RPE is used;
+Consider adding further measures to temporarily improve ventilation, including opening a window, turning on the bathroom exhaust fan and adding a high efficiency air filter;
+Procedures are limited to those that are absolutely necessary. Indications for care are reassessed as needed or a medical assessment is carried out to see if an alternative care solution is possible
+Perform these procedures in a single-patient room and keep the door closed. Limit the number of people present during the AGMP and immediately afterwards as much as possible;
+To perform an AGMP in a room with an N95 respirator, the room must have ventilation that provides at least 6 air changes per hour. If this level cannot be achieved, respiratory protective equipment that affords superior protection must be provided. Where applicable, refer to the standard Selection, use, and care of respirators (CSA Z94.4-18) (Figure 2) to select the appropriate RPE for the type of ventilation
+After an AGMP, the required wait time must be observed in accordance with the ventilation characteristics of the room (number of air changes per hour for an elimination rate of 99.9%) before entering the room without the required personal protective equipment. If the number of air changes is unknown, a wait time of around six hours is recommended;
+For more information, refer to the document produced by the Institut national de santé publique du Québec (in French only) (INSPQ).
+A decision (in French only) support tool is available to help workers identify the risk level of each user.
+
+
+
+
+25.  Can a handmade face covering be considered a quality mask?
+
+
+No, a non-certified homemade face covering or non-medical mask is not equivalent to a medical or procedure mask. Recent studies have shown that the filtration efficiency of face coverings varies greatly (from negligible to acceptable) from one model to another and can decrease following multiple washing cycles. 
+
+
+
+
+26.  Can a KN-95 mask replace a quality mask, such as an N95? 
+
+
+Although the features of KN‑95 and NIOSH-certified N95 masks are very similar in terms of their performance criteria (e.g., filtration efficiency and breathability), there are differences between a KN‑95 mask and an N95 mask in the design of the harness (ear loops rather than head straps) and in the consistency of the mask materials. In these circumstances, the prerequisites for using these masks (successful fit test) are only very rarely met. Nor can they be used by workers as a replacement for medical masks in the workplace. Indeed, these masks are not quality masks given the variability of several models in terms of their filtration capacity.
+
+
+First aid in the workplace
+
+
+27.  What do I do if my workplace first aid card expires?
+
+
+The CNESST recognizes that employers will have difficulty registering their employees to take the course for the renewal of workplace first aid cards as required by the First Aid Minimum Standards Regulations. Therefore, the CNESST has introduced a flexibility measure for its clients. All CNESST workplace first aid cards that expire will automatically be extended for 3 months without the employer or first aider having to apply for renewal. This measure will end on September 30, 2022.
+For example, a first aider who has a card that expires after October 1, 2022 will have to take the First Aid in the Workplace training again for their card to remain valid.
+The CNESST reserves the right to revise this flexibility measure depending on how the situation evolves.
+Reminder: the only card recognized to meet the requirements of the First-aid Minimum Standards Regulation is the CNESST’s blue workplace first aid card.
+
+
+
+
+28.  Are CPR procedures different for first aiders in the workplace in the context of COVID-19?
+
+
+Before taking action, first aiders must put on personal protective equipment (protective eyewear, quality mask and gloves). They must call 9-1-1, request an automated external defibrillator (AED) and perform defibrillation only.
+First aiders must proceed with cardiac massage by using only the chest compression technique, by placing a cloth, a towel or other covering on the person’s mouth and then performing strong and rapid chest compressions at the centre of the person’s chest to allow blood to circulate to the heart. After the intervention, they must wash or discard the cloth, the towel or the other item used to cover the person's face.
+The first aiders then must wash their hands with soap and water for at least 20 seconds, following the usual procedure.
+For more details, see Bulletin clinique COVID-19 Chaîne de survie (COVID-19 Clinical Bulletin - Chain of Survival) on the Urgences Santé website.
+
+
+
+
+29.  Can a first aider take action if the person has symptoms of COVID-19?
+
+
+The first aider must follow the preventive measures outlined on pages 36 and 37 of the First Aid in the Workplace Manual (in French only)  for biological hazards, including but not limited to wearing a quality mask, eye protection and gloves, hand washing (before and after) and disinfecting equipment and surfaces in order to assist a symptomatic person.
+If possible, the first aider should maintain a distance of at least 2 metres from the person with the symptoms given the higher risk of contamination. The person receiving first aid must put a quality mask on. A mask does not have to be put on a person who is unconscious. However, prehospital emergency medical services must be alerted quickly and informed if the situation is unsafe and if the person has respiratory symptoms. They will tell the first aider what measures to take based on the intervention required while awaiting their arrival.
+The INSPQ has also produced an information sheet on first aid in the workplace (in French only).
+
+
+
+
+30.  Must a quality mask be worn when attending “First aid in the workplace” training?
+
+
+As of May 14, 2022, quality masks are no longer mandatory, except in transport and in health care settings. However, wearing a mask is still recommended, especially when interacting with vulnerable workers and for tasks where people are required to gather in a confined space. Under their right to manage, an employer may require their workers to wear a quality mask in the workplace.  
+
+
+
+
+31.  Should we be adding anything to first aid kits?
+
+
+Sections 4 and 5 of the First-aid Minimum Standards Regulation set out the minimum required contents of a kit. In addition to this minimum content, supplies or equipment, excluding drugs, may also be included to facilitate the first aider’s task.
+Employers are allowed to add personal protective equipment (gloves, eye protection, quality mask) if they wish to do so.
+
+
+
+
+32.  If all my workers are teleworking, is it necessary to have a first aider on site at the establishment? 
+
+
+NO, if there are no workers on site AND if none of the workers has to come to the establishment at any time (e.g., to submit documents, pick up equipment, pick up a car, etc.), a first aider does not have to be present.
+
+
+
+
+33.  If I have only one worker at the establishment, do they have to be trained as a first aider? 
+
+
+YES, as soon as there is a worker at the establishment, there must be a first aider in the workplace. A worker, without being an employee of the employer, may be considered a first aider if they have valid First Aid in the Workplace certification. For example, a security guard may be considered a first aider if they have a first aid in the workplace card. In addition, the employer has an obligation to provide immediate first aid to their workers, whether alone or in large numbers in the workplace. Therefore, they must set up a means of communication to call for first aid if necessary.
+
+
+Volunteer workers
+
+
+34.  Are volunteer workers protected during the COVID-19 period? 
+
+
+Protection in the event of an employment injury
+Volunteer workers are not automatically protected under the Act respecting industrial accidents and occupational diseases. For a volunteer worker to be protected in the event of an employment injury (industrial accident or occupational disease), protection must be obtained before the injury occurs. If you want to protect a volunteer worker, you must apply.
+Protection application
+Your business must be registered with the CNESST to purchase protection for your volunteer workers. To register your business, fill out the CNESST Registration Application form online.
+If your business is already registered with the CNESST, you can apply for volunteer worker protection online by filling out the Volunteer Worker Protection Application form. Instructions are provided for each step.
+Prevention
+The legal obligations provided for in the Act respecting occupational health and safety apply to a volunteer worker. Thus, the employer must take all necessary measures to protect the health and ensure the safety and physical and psychological well-being of volunteer workers, as provided for in section 51 of the Act respecting occupational health and safety (AOHS). It is also the volunteer worker's responsibility to take the necessary measures to protect their health, safety or physical well-being and to ensure that they do not endanger the health, safety or physical well-being of other people in the vicinity of the workplace, in accordance with section 49 of the AOHS.
+
+
+Temporary foreign workers
+
+
+35.  What are my responsibilities toward the temporary foreign agricultural workers I hire?
+
+
+In all cases, employers must fill out a declaration stating that they employ temporary foreign workers (in French only) and submit it to the Commission des normes, de l’équité, de la santé et de la sécurité du travail, for each foreign worker hired.Déclaration d’embauche de travailleurs étrangers temporaires | Commission des normes de l'équité de la santé et de la sécurité du travail - CNESST (gouv.qc.ca)
+Occupational health and safety obligations
+As stipulated in section 51 of the Act respecting occupational health and safety (AOHS), “every employer must take the necessary measures to protect the health and ensure the safety and physical and mental well-being of his worker.” That includes employers of temporary foreign workers (TFWs). To this end, the employer must take measures to identify, control and eliminate the risks, including those related to COVID-19. The employer must also ensure that the organization of the work and the methods and techniques used to perform it are safe and do not affect the worker’s health.
+In accordance with section 49 of the AOHS, “a worker must take the necessary measures to ensure his health, safety or physical or psychological well-being and see that he does not endanger the health, safety or physical and psychological well-being of other persons at or near his workplace.”
+
+
+Labour standards
+
+
+36.  Do I have the right to sick leave if I have COVID-19?
+
+
+Yes. You have the right to be absent from work if you are sick. While you are absent, your employment relationship is protected.
+You may be absent owing to sickness for up to 26 weeks over a 12-month period.
+If you have been working for your employer for at least 3 months, the first 2 sick days you take during a calendar year (January 1 to December 31) are paid.
+You can consult our website: Absences due to sickness or an accident.
+If you must isolate under the isolation rules in effect, you may be eligible for certain Government of Canada benefits.
+
+
+
+
+
+37.  Is there paid leave for someone who is absent from work because they are ill or because they are taking care of a relative?
+
+
+Yes, if you have been with your employer for at least 3 months, you are entitled to a total of 2 days of paid leave per calendar year (January 1 to December 31) for any of the following reasons:
+to fulfil family obligations relating to the care, health or education of your child or your spouse's child
+to fulfil family obligations as an informal caregiver for a relative or another person owing to their state of health
+owing to non–work-related accident or illness
+for organ or tissue donation
+following domestic or sexual violence or a criminal offence
+These days may be divided into hours if authorized by the employer.
+They may not be deferred from one year to the next or replaced with an indemnity.
+Beyond the first two days taken annually, the Act respecting labour standards does not oblige an employer to pay a worker when they are absent. It is the employer's choice to grant a higher number of days of paid leave.
+
+
+
+Compensation
+
+
+38.  Can a worker who contracted COVID-19 through exposure in the workplace be compensated? updated - March 17, 2023
+
+
+Yes, workers who become infected with COVID-19 as a result of or in the course of their work may be entitled to the usual benefits and services provided under the Act respecting industrial accidents and occupational diseases (AIAOD).
+For any claim received on or after March 1, 2023, the worker must consult a health professional to obtain a medical certificate confirming the diagnosis and submit a claim.
+The worker's claim will then be processed according to the usual parameters.
+The worker must notify their employer as soon as possible.
+The worker must demonstrate that they came into contact with the virus through or in the course of their work. The work connection must be demonstrated in a conclusive manner.
+As for staff in the health network, they must submit a document to the CNESST that shows, following a screening test, a positive COVID-19 result. The document must come from a designated screening centre or laboratory in the health and social services network, in accordance with guidelines issued by the Ministère de la Santé et des Services sociaux (MSSS).
+In the case of a claim for the death of a worker who contracted COVID-19 as a result of or in the course of their work, the CNESST may pay death benefits to the worker’s family (spouse and dependents). To be entitled to the worker's death benefits, the spouse, child or other dependent must complete the Worker’s claim form. The beneficiary must complete this form within 6 months of the death or within 6 months of the date on which it is brought to their attention that the worker's death may be work related.
+The CNESST’s decision will take into account the specifics of each claim.
+
+
+
+
+39.  What is the procedure for making a COVID-19-related claim? updated - March 17, 2023
+
+
+A worker who contracted COVID-19 through exposure in their workplace can be compensated.
+As with other types of employment injuries, a worker seeking compensation for an industrial accident must fill out the Worker’s Claim form and send it to the CNESST.
+For any claim received on or after March 1, 2023, the worker must consult a health professional to obtain a medical certificate that confirms the diagnosis and submit a claim.
+As for staff in the health network, they must submit a document to the CNESST that shows, following a screening test, a positive COVID-19 result. The document must come from a designated screening centre or laboratory in the health and social services network, in accordance with guidelines issued by the Ministère de la Santé et des Services sociaux (MSSS).
+The CNESST encourages workers to make their claims online at Mon Espace CNESST (in French only).
+
+
+
+
+40.  What kind of compensation can a worker receive?
+
+
+Once a claim has been accepted, the worker can be reimbursed for medical assistance (e.g., drugs), travel expenses, accommodation costs, etc.
+To be compensated, the worker must fill out the Application for Reimbursement of Expenses form.
+If the employee becomes unable to work, they may be entitled to income replacement benefits.
+
+
+
+
+41.  If the CNESST accepts a worker’s claim, when will they receive compensation?
+
+
+As soon as the claim has been accepted, the worker may be reimbursed for all costs incurred for care, treatment or drugs in connection with the employment injury and in accordance with the legal provisions. In addition, the worker may be entitled to income replacement benefits should they have to stop working as a result of the employment injury.
+
+
+
+
+42.  Can a claim be eligible while the worker was teleworking at the time of the event?
+
+
+Yes. Teleworkers are protected by the AIAOD. This means that a teleworker who is domiciled in Québec could be compensated in certain teleworking situations.
+The CNESST applies the same conditions and rules when analyzing the eligibility of an employment injury, whether the injury occurred in telework or elsewhere.
+With the exception of a worker domiciled outside Quebec who suffers an accident outside Quebec.
+
+
+
+
+43.  Can claims be made for secondary exposure (e.g., if a worker’s close relative is infected)?
+
+
+No, only workers who contract the disease as a result of their work can be compensated.
+
+
+
+
+44.  Could a worker who has side effects after getting the COVID-19 vaccine be compensated?
+
+
+Yes, a worker who got the COVID‑19 vaccine in the course of their work and who develops an injury after getting the vaccine may be entitled to the benefits provided for under the Act respecting industrial accidents and occupational diseases (AIAOD).
+For any claim, the worker must see a physician to obtain a medical certificate that specifies the diagnosis of the injury that resulted from vaccination.
+The worker must inform their employer as soon as possible.
+In particular, the worker must demonstrate in a preponderant manner that the vaccine was administered because of or in the course of their work. Furthermore, the causal relationship between the injury and the vaccine must also be demonstrated in a preponderant manner.
+The CNESST's decision will take the particularities inherent in each claim into account.
+As with any other type of employment injury, a worker who wishes to receive benefits following a work accident must fill out the “Worker’s claim" form and send it to the CNESST.
+
+
+For a Safe Maternity Experience Program (FSMEP)
+
+
+45.  Does an employer have to take special measures for pregnant workers in the event of the early return to work of workers who are self-isolating following exposure to or infection with COVID-19? 
+
+
+The INSPQ has updated its recommendations for pregnant or breastfeeding workers. The recommendations refer to the pregnant worker's vaccination status.
+It is up to the employer to read the public health recommendations and make sure that they are applied.
+Workers are not obliged to disclose their vaccination status or prior COVID-19 infections to their employer, and the employer cannot require them to provide this information.
+
+
+
+
+46.  What should a pregnant worker who has not requested reassignment do if she believes that COVID-19 is present in her workplace?
+
+
+The worker must inform her employer of the reasons for her immediate withdrawal from work, i.e., the presence of the COVID-19 biohazard.
+The employer will offer her a reassignment to safe work or preventive withdrawal.
+The worker must:
+	Consult her attending physician, a specialized nurse practitioner or the physician in charge of health services in the establishment, as soon as possible
+Get a Preventive Withdrawal Certificate for a Pregnant or Breast-feeding Worker
+Give the Preventive Withdrawal Certificate to her employer
+
+If the worker is eligible for the For a Safe Maternity Experience Program and is on preventive withdrawal, she will be retroactively compensated.
+
+
+
+
+47.  Who is responsible for identifying workplace hazards?
+
+
+Public health authorities (occupational health teams) are responsible for identifying workplace hazards for all pregnant and nursing workers. Measures are in place to ensure that pregnant and nursing workers are not exposed to workplace hazards.
+
+
+
+
+48.  I caught COVID-19 and I have to be absent to go to an appointment. Will my income replacement indemnity be suspended?
+
+
+The CNESST reiterates the importance for workers to assist in the care and treatment necessitated by their condition. It encourages the search for reasonable means to ensure access to medical assistance and meet the workers’ needs.
+Teleconsultation, in compliance with the directions provided by the professional orders, is a solution that will continue to be permitted.
+
+
+
+
+49.  Are remote treatment or consultation payable?
+
+
+Depending on the worker’s situation and condition, the CNESST may allow remote treatment and consultation provided that it is done in accordance with professional order rules.
+As for the attendance register, it is recommended that clinics and practitioners obtain an email from the worker confirming that they have received remote treatment.
+
+
+
+
+50.  How can physicians who provide telephone consultations but cannot transmit medical reports electronically send us these documents? 
+
+
+Documents can be sent by regular mail to any CNESST address.
+
+
+Miscellaneous
+
+
+51.  Is it still possible to contest the decisions rendered by the CNESST? 
+
+
+Yes, workers can still challenge a decision.
+The CNESST encourages workers and employers to subscribe to the secure Mon Espace CNESST site (in French only). This will ensure the safety of communications with the CNESST.
+
+
+
+
+52.  Is there any documentation on COVID-19-related issues? 
+
+
+The CNESST website has several sources of information as well as health and safety awareness tools. It also features documentation on biological hazards (in French only), the right to refuse to work and sick leave standards.
+A web page addressing key workplace-related questions has been made available on the CNESST website.
+For information on the COVID-19 situation in Québec, please visit quebec.ca/en/coronavirus.
+
+
+
+
+53.  Is customer service still being provided in the context of COVID-19?
+
+
+Yes, customer service remains available. Our staff continues to providing you with the best possible service.
+
+
+
+
+54.  Is the employer obliged to perform his pay equity work (initial exercise, maintenance evaluation) according to the deadline provided in the Act, despite the context linked to COVID-19?
+
+
+Despite the pandemic context linked to COVID-19, the deadlines stipulated in the Pay Equity Act are legal deadlines that must be respected.
+The employer therefore must perform his pay equity work within the deadline applicable to it. It must also make the postings resulting from this work accessible to the employees concerned, on the stipulated date. As needed, the employer could, for example, send the postings by mail or by email to the persons who cannot be physically present at the business. All the employees concerned by pay equity work must have easy access to these postings.
+The CNESST offers various online tools and training to help employers fulfill their pay equity obligations.
+
+
+
+
+
+
+
+  
+
+
+
+​​

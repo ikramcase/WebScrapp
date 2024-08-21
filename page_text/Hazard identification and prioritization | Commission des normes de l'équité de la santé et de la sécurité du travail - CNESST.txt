@@ -1,0 +1,212 @@
+Hazard identification and prioritization
+
+
+Identifying and prioritizing hazards is the first step in the occupational health and safety prevention process.
+It allows the employer to develop an action plan or implement their prevention program by identifying the hazards workers are exposed to in their workplace. These hazards can then be eliminated or controlled in order to effectively manage occupational health and safety in the company.
+Identifying hazards
+Hazards must first be identified, that is, detected in the workplace, and then analyzed in order to establish priorities. It is important to plan hazard identification well to ensure that nothing is overlooked, that the people concerned are freed up, that the exercise is done as objectively as possible and that what is done is recorded in writing.
+to identify hazards
+
+Periodic inspections
+Periodic inspection visits can help identify occupational health and safety hazards before work accidents or occupational diseases occur.
+The inspection must be objective, rigorous and sensitive to the health and safety of workers. A good knowledge of the workplace is necessary to have an idea of the hazards that the location, tasks or activities may present. The hazards associated with buildings, machinery and other equipment must also be considered.
+Periodic inspection allows the problems observed to be analyzed in order to determine the most appropriate corrective measures to apply to counter occupational health and safety risks.
+Register of Accidents, Incidents and First Aid
+The Register of Accidents, Incidents and First Aid is an important means of identifying hazards and an indicator of the company's occupational health and safety situation. It can serve as a guide for preventive measures by providing a record of the corrective measures put in place following an accident or incident.
+Staff comments and suggestions
+Staff and health and safety committee members have an obligation to report hazards in their workplace and suggest solutions.
+Workers' comments, complaints and suggestions are useful sources of information for designing and continuously improving the prevention program.
+Best practices in the sector of activity
+The experience of other organizations can be a useful source of information for identifying health and safety hazards in the workplace. The employer can draw inspiration from:
+organizations in the same sector of activity
+other members of the same prevention mutual (in French only)
+companies in the same neighbourhood or industrial park
+Hazard identification tool
+The CNESST has created a hazard identification tool for people involved in health and safety management in their workplace. These include the employer, the workers, their representatives or the health and safety committee (in French only).
+The tool presents the 6 types of hazards in the form of questions that can simply be checked off and entered in the file. The tool then provides preventive measures and controls to put in place for each type of hazard. Once completed, the file can be used in part as a prevention program.
+It is not mandatory to use the tool to identify hazards in a company, but it does make this step easier.
+ITEM task analysis
+Hazards can be identified in a number of ways, for example by analyzing the different tasks that are carried out during routine operations.
+To do this, the following 4 components that form the acronym ITEM (in French only) must be analyzed:
+the individual
+the tasks
+the environment
+the materials
+For each component, the right questions must be asked to ensure the health and safety of workers. For example:
+Individual
+Do workers have sufficient knowledge?
+Have workers been given the necessary training to do their work?
+Are workers adequately trained to do their work?
+Are workers adequately supervised to do their work?
+Are new workers and workers assigned to new tasks given training that is appropriate to their needs?
+Tasks
+What are the tasks to be performed?
+What are the components associated with these tasks that may present a risk (for example, handling, movements performed, working alone, interaction of several teams, particular clienteles, aggressive clientele, work organization)?
+Are the work methods used to perform these tasks safe?
+How often are these tasks performed?
+When are these tasks performed (for example, day, evening, weekend, start of shift, overtime)?
+Environment
+Are the premises in good repair and unobstructed (for example, floor, workstation, circulation route, access route, road, yard)?
+Are the premises safe (for example, contaminants, noise, dust, lighting, temperature, humidity, temperature extremes, air quality, vibration)?
+Are the premises laid out in such a way as to ensure worker safety?
+Does the environment present any particular risks (for example, confined space, working at heights, isolated location where assistance cannot be sought, storage of hazardous products)?
+Is the building in good repair?
+Materials
+Are the materials and equipment required to perform the tasks, including personal protective equipment, available (for example, tools, machinery, vehicles, safety footwear, safety harnesses, respiratory protective equipment)?
+Are the materials and equipment used in good repair?
+Are the materials and equipment used maintained in accordance with the manufacturer's recommendations?
+Is personal protective equipment used, maintained and stored properly? • Are hazardous products used?
+
+In order to get a clear picture of the hazards present in the workplace, it is important to take the following into account:
+routine activities
+activities that are less frequent, for example, tasks related to:
+	cleaning, maintenance and repairs
+particular clienteles
+special orders
+emergency procedures
+
+Analysis by type of hazard
+The hazard identification tool helps to identify hazards and proposes preventive measures and controls for the 6 types of hazards.
+Biological hazards
+Biological hazards include, for example, the presence of microorganisms in the form of dust, mist, decomposition, growth in a humid environment, deposits on surfaces, biological degradation:
+infectious agents (viruses, parasites, fungi, bacteria, etc.)
+vectors (plants, insects, animals, birds, humans, soil, dust, etc.)
+allergens (pollen, insect venom, mites, hair, saliva and animal dander, etc.)
+toxins (endotoxins, mycotoxins, etc.)
+plant or animal dust
+Chemical hazards
+Chemical hazards are present when the worker comes in contact with raw materials and by-products of a process or product, through ingestion, inhalation or dermal absorption, as a result of:
+a mechanical action
+evaporation
+combustion
+decomposition
+a chemical reaction
+Working in the presence of hazardous gases, such as carbon monoxide (in French only) or fire smoke , is a chemical hazard.
+Ergonomic hazards
+Ergonomic hazards (in French only) include, in particular, the presence of:
+repetitive movements
+overexertion
+awkward or static postures
+frequent handling
+Safety hazards
+Safety hazards include, in particular:
+moving parts of equipment
+confined spaces (in French only)
+contact with lifting and handling equipment
+falls from the same height
+violence and aggression
+Physical hazards
+Physical hazards concern all forms of energy or forces such as:
+noise
+vibration
+electricity
+temperature
+pressure
+radiation
+Psychosocial hazards
+Psychosocial hazards include factors related to the nature or organization of work or social factors such as:
+an unhealthy working environment
+sexual or psychological harassment
+lack of respect or civility
+exposure to traumatic events
+work overload
+Prioritizing hazards
+Once hazards have been identified, the next step is to prioritize them, that is, determine where corrective measures need to be implemented first. The priority might be:
+hazards that pose a serious and immediate threat (or the most hazardous situations)
+those you and your workers consider most important
+based on the likelihood of an accident or incident occurring and its possible consequences
+In order to carry out this step effectively, it is essential to:
+free up the necessary resources and budgets
+be objective
+involve the people concerned
+Experts should also be called in if situations require a more detailed analysis. For example, when it comes to machine safety.
+There are various risk analysis methods. You can consult, for instance,
+the information capsule on identifying, correcting and controlling hazards (in French only)
+ISO standard 31010: Risk management – Risk assessment techniques
+CSA standard Z1002: Hazard identification and elimination and risk assessment and control
+Once hazards have been identified and prioritized, measures must be put in place to eliminate or control them.
+
+
+
+        Forms and publications      
+
+
+Carte de poche ITEM - Démarche d'identification des risques (Guide et modèle)
+
+
+
+Guide de prévention en milieu de travail à l'intention de la petite et moyenne entreprise, 2e édition (Guide et modèle)
+
+
+
+
+
+
+
+
+Secondary menu
+
+
+ Organizing prevention
+ Active page
+
+
+How to manage occupational health and safety in your company
+
+
+Winning conditions in occupational health and safety
+
+
+Training clips to support you in your OHS management
+
+
+
+
+
+
+
+
+
+
+
+
+
+Help us improve our website
+
+
+
+
+Was the information on this page helpful to you?
+
+
+
+
+
+Yes
+
+
+
+No
+
+
+
+
+
+What information are you looking for? 
+
+
+We will use your comments to improve the information.
+Avoid entering personal or file-related information. Please note that you will not receive a reply.
+Any questions about a file? Use our online inquiry service.  
+Would you like to file a complaint? Consult our Complaints and recourses section.
+
+
+
+
+
+ 
+
+
+
+
+Leave this field blank

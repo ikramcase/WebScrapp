@@ -1,0 +1,302 @@
+Annual vacation
+
+
+Workers, whether full time or part time, are entitled to a vacation each year and a vacation indemnity, commonly referred to as “vacation pay”.
+The Loi sur les normes du travail establishes the minimum duration of annual vacation and provides for a method of calculating the indemnity.
+To establish the length of vacation and calculate the amount of the indemnity, the employer must take 3 factors into account:
+the reference year used in their company to establish vacation entitlement
+the worker’s number of years of uninterrupted service
+the gross wages earned during the reference year
+Reference year
+Vacation accumulates over a period of 12 months, called the “reference year”. The worker must take their vacation within 12 months of the end of the reference year.
+In most cases, the reference year runs from May 1 to April 30. The period may be different if the employer, a decree or a collective agreement sets other dates.
+Length of vacation and indemnity
+The length of annual vacation is based on the number of years of uninterrupted service at the end of the reference year.
+The amount of vacation indemnity is calculated based on the gross wages earned during the reference year (4% or 6%).
+Length and indemnity of vacation to uninterrupted service
+Uninterrupted service at the end of the reference year 
+Length of vacation
+Vacation indemnity
+Less than 1 year
+1 day per full month of uninterrupted service, not exceeding 2 weeks
+4% of gross wages
+1 year to less than 3 years
+2 consecutive weeks
+4% of gross wages
+3 years or more
+3 consecutive weeks
+6% of gross wages
+
+Examples of how vacation indemnity is calculated
+Example A 
+Mario is credited with 2 years of uninterrupted service at the end of the reference year. 
+So he is entitled to 2 weeks vacation and a vacation indemnity of 4%. 
+He earned $25 600 during the reference year.
+Calculation: $25 600 x 4% = $1 024
+Mario will receive a vacation indemnity of $1 024 for his 2 weeks of vacation.
+Example B
+Stéphanie is credited with 8 years of uninterrupted service at the end of the reference year.
+So she is entitled to 3 weeks vacation and a vacation indemnity of 6%.
+She earned $30 000 during the reference year.
+Calculation: $30 000 x 6% = $1 800 
+Stéphanie will receive an indemnity of $1 800 for her 3 weeks of vacation.
+
+
+Specific provisions
+The vacation indemnity continues to accumulate during:
+maternity leave of 18 weeks or less
+paternity leave of 5 weeks or less
+an absence owing to sickness or an accident of 26 weeks or less
+	(or an absence related to organ or tissue donation for transplant, an accident, domestic or sexual abuse suffered by the worker)
+Use the monCalcul online tool to calculate the indemnity.
+
+Examples of how the vacation indemnity is calculated if the worker is absent
+
+Example A
+Sylvain is credited with 2 and a half years of uninterrupted service.
+Sylvain is entitled to 2 weeks vacation and a vacation indemnity of 4%.
+During the last reference year, Sylvain worked 26 weeks at $600 per week and was absent from work owing to sickness for another 26 weeks.
+Calculation: 26 (weeks worked) x $600 (wages per week) = $15 600
+$15 600 ÷ 26 = $600 (average wages earned per week)
+$600 (average wages earned per week) x 2 (vacation weeks) = $1 200
+Sylvain will receive a vacation indemnity of $1 200 for his 2 weeks of vacation.
+Example B
+Élizabeth is credited with 8 years of uninterrupted service.
+So she is entitled to 3 weeks vacation and a vacation indemnity of 6%.
+Élizabeth worked 24 weeks at $800 per week and was on maternity leave for 18 weeks as well as on parental leave for 10 weeks.
+Calculation: $800 (average wages earned per week) x 3 (number of vacation weeks) = $2 400
+$2 400 x 42 (24 weeks worked + 18 weeks of maternity leave) ÷ 52 weeks in the year = $1 938.46
+Élizabeth will receive a vacation indemnity of $1 938.46 for her 3 weeks of vacation.
+NOTE: Her weeks of parental leave are excluded from the calculation because the vacation indemnity does not accumulate during this period. The vacation indemnity that Élizabeth will receive must not exceed what she would have been entitled to had she remained at work (i.e., had she not been on maternity leave).
+
+Timing of vacation
+The employer chooses the vacation period for their employees. They must inform them of the dates of their vacation at least 4 weeks in advance. 
+The worker must receive his vacation indemnity in a lump sum before they start their vacation or at the time of the current pay covering the period of their vacation.
+A compensatory indemnity may not be paid to a worker to replace their vacation period, unless:
+a collective agreement or a decree contains a specific provision to this effect
+the establishment closes for 2 weeks during the vacation and a worker entitled to 3 weeks asks to have the last week replaced by an indemnity
+
+Important
+In the case of seasonal or intermittent activities (tourism, agriculture, fisheries), the employer may add the vacation indemnity to each pay.
+
+Early vacation
+At the worker’s request, the employer may allow them to take all or part of their vacation during the reference year. The proportion of the indemnity that will then be paid is determined by the worker and the employer. For example, the indemnity could be calculated based on the wages:
+earned since the beginning of the reference year
+anticipated for the whole reference year
+Deferred vacation
+A worker's vacation may be deferred to the following year only if, at the end of the 12-month period following the reference year, they are absent or on leave:
+owing to a non–work related accident or illness
+for organ or tissue donation for transplant
+because of domestic or sexual abuse
+owing to serious bodily injury arising out of or resulting from a criminal offence against them
+for family or parental reasons, including absence due to the state of health of a person for whom they act as a caregiver
+The employer has the right to deny the request. They must then pay the worker the vacation indemnity to which they are entitled.
+Divided vacation
+An employer cannot impose the division of the vacation period.
+However, a worker who has more than one week of vacation may choose to divide their vacation into 2 periods.
+Their employer may refuse to divide the vacation period only if they close their business during the vacation period or for a longer period.
+To divide their vacation into more than 2 periods, for example into 8 Mondays, the worker must have their employer's consent.
+Vacation of one week or less cannot be divided.
+
+Exception
+An employer who used to close their establishment during the annual vacation prior to March 29, 1995 may divide the vacation period of workers who are entitled to 3 weeks of vacation.
+One of these periods must be for a minimum of 2 consecutive weeks and the other must be during the period the establishment is closed.
+
+Additional leave
+A worker who is already entitled to 2 weeks of vacation may request an additional week's leave without pay. The employer must grant this leave. The worker cannot demand to take this third week after the other 2 weeks. This additional leave cannot be divided into several periods unless the employer allows it.
+
+
+
+        See also      
+
+
+Ma paye ça compte  
+
+
+
+ monCalcul
+
+
+
+
+
+
+
+        Forms and publications      
+
+
+Les normes du travail au Québec (Document d’information)
+
+
+
+
+
+
+        Laws and regulations      
+
+
+Loi sur les normes du travail (LNT) – Articles 66 à 77
+
+
+
+
+
+Interpretation Guide – Section 66 to 77 
+
+
+
+
+
+
+
+
+
+
+Secondary menu
+
+
+ Leave
+ Active page
+
+
+Statutory holidays
+
+
+Statutory holidays
+
+
+Calculating the indemnity for a statutory holiday
+
+
+
+
+Family-related leave
+
+
+Adoption or birth
+
+
+Maternity leave or leave in connection with pregnancy or childbirth
+
+
+Paternity leave or leave for the parent who did not give birth to the child
+
+
+Five days of leave
+
+
+Parental leave
+
+
+Adoption
+
+
+Special leave during pregnancy
+
+
+Suspension, division ou prolongation du congé
+
+
+
+
+Family or parental obligations
+
+
+Wedding or civil union
+
+
+Death and funeral
+
+
+Suicide of a loved one
+
+
+Disappearance of a minor child
+
+
+
+
+Annual vacation
+
+
+Accidents and illnesses
+
+
+Non–work-related accident or illness
+
+
+
+
+Specific situations
+
+
+Leave in the event of a termination of pregnancy
+
+
+Leave for reservists
+
+
+Leave for organ or tissue donation
+
+
+Victims of crime
+
+
+Victims of domestic or sexual violence
+
+
+
+
+Events not covered by labour standards
+
+
+
+
+
+
+
+
+
+
+
+
+
+Help us improve our website
+
+
+
+
+Was the information on this page helpful to you?
+
+
+
+
+
+Yes
+
+
+
+No
+
+
+
+
+
+What information are you looking for? 
+
+
+We will use your comments to improve the information.
+Avoid entering personal or file-related information. Please note that you will not receive a reply.
+Any questions about a file? Use our online inquiry service.  
+Would you like to file a complaint? Consult our Complaints and recourses section.
+
+
+
+
+
+ 
+
+
+
+
+Leave this field blank

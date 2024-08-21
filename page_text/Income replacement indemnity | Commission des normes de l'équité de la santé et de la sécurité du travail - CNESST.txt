@@ -1,0 +1,268 @@
+Income replacement indemnity
+
+
+The CNESST pays an income replacement indemnity to workers who are unable to work because of an employment injury. The indemnity is paid until they are able to do their job, an equivalent job or a suitable job full time once again.
+The income replacement indemnity is equal to 90% of the worker's net income. It is paid every 2 weeks.
+A worker who has registered for personal coverage with the CNESST (self-employed worker, manager, etc.) may also be entitled to an income replacement indemnity.
+Volunteer workers who are registered for coverage for volunteer workers by their employer are also entitled to an income replacement indemnity.
+
+Important 
+A worker who suffers an employment injury or their beneficiary (in the event of the worker’s death) must fill out the Worker's claim form within 6 months of the employment injury. The CNESST will analyze the admissibility of their claim. 
+The worker does not have to complete the Worker's claim form when:
+they are unable to work because of an employment injury for fewer than 14 full days after the beginning of the disability
+they have no money to claim from the CNESST
+If no employer is required to pay a salary or wages to a worker for 14 full days after they become unable to work, the worker submits the Worker's claim form and the medical certificate completed by their doctor to the CNESST. 
+
+Duration of the indemnity
+A worker who is entitled to an income replacement indemnity will receive the indemnity until the CNESST determines that they are able to do their job or an equivalent job, even after a medical opinion attesting that the worker has recovered or is stable. It is up to the CNESST, not the doctor, to determine whether or not the worker is able to do their job. The same applies to a worker who is unable to do any job.
+For certain workers who are unable to return to their employer, the indemnity may continue until the age of 68 if:
+they were 60 years old at the time of the employment injury
+they were 55 years old or older, in the case of an occupational disease that occurred before October 6, 2022
+Extension of the indemnity
+A worker may obtain an extension of the income replacement indemnity up to 1 year, from the date they become able to do their job or a suitable job, if:
+they become able to do their job again after the period provided for the worker to exercise their right to return to work has expired and they are not reinstated in their job by their employer
+they are able to hold suitable employment as determined by the CNESST, but suitable employment is not available
+Termination of the right to an income replacement indemnity
+The termination of the worker's right to an income replacement indemnity occurs when:
+they become able to do their job again
+they are able to do their job again after expiry of the right to return to work for a maximum period of 1 year, if they are not reinstated in their job
+they die (the income replacement indemnity continues to be paid to the spouse for 3 months following the date of the worker’s death when the worker dies from a cause unrelated to the employment injury)
+they reach the age of 68
+
+Note
+If the worker is 64 years of age or older at the time of their employment injury, their income replacement indemnity will end 4 years after the date of the beginning of their disability.
+
+Calculation of the income replacement indemnity
+Day the worker left work
+When a worker is injured at work and is unable to work for the rest of the day, the employer must pay them 100% of their regular net wages. The day the worker left work is not always the day of the event.
+
+Example 
+On November 4, Paul was injured at work. He did not stop working until around noon on November 7, 3 days later. Therefore, the day he left work is November 7.
+
+First 14 days after a worker becomes unable to work
+When a worker is unable to work for fewer than 14 days because of an employment injury, the employer must pay them an income replacement indemnity that is equal to 90% of their net income for the days they would normally have worked, not including the day of the accident. To determine the amount of the indemnity, the employer must calculate the first 14 days.
+If no employer is required to pay the worker a salary or wages, the CNESST pays the worker an income replacement indemnity for each day or part of a day that the worker would normally have earned employment income.
+As of the 15th day the worker becomes unable to work
+If the worker is unable to work for more than 14 days, the CNESST pays them the income replacement indemnity to which they are entitled as of the 15th day of absence. Some employers are required pay the income replacement indemnity beyond the first 14 days under a collective agreement, agreement or order in council.
+Maximum and minimum insurable earnings for all workers
+
+
+
+Gross annual maximum insurable earnings (in French only) (effective January 1, 2023)
+
+
+$91 000
+
+
+
+
+Gross minimum insurable earnings (effective as of May 1, 2023)
+
+
+$32 326.80 
+
+
+
+
+Unpaid student intern
+A student under the age of 18 who suffered an employment injury during an unpaid internship under the responsibility of an educational institution at which they are studying may be entitled to a weekly indemnity of $121.
+Child affected by voluntary or alternative measures
+A child who suffered an employment injury while performing work, rendering a service to the community or acting as a trainee, with or without pay, may be entitled to a weekly indemnity of $121 if they did so:
+under voluntary measures taken pursuant to the Loi sur la protection de la jeunesse
+under alternative measures taken pursuant to the Loi sur le système de justice pénale des adolescents
+following a decision rendered by the Cour du Québec pursuant to one of these Acts or the Code de procédure pénale
+ 
+Note 
+Other people such as self-employed workers and paper carriers are considered workers and may be entitled to an indemnity under the Loi sur les accidents du travail et les maladies professionnelles (LATMP). 
+
+Annual revalorization
+The amount of the income replacement indemnity is revalorized each year on the anniversary of the day the worker became unable to work.
+Adjustment of the indemnity
+If the worker is receiving or received an income replacement indemnity, it may be adjusted if there is a new pay equity agreement or a renewal of a collective agreement. 
+The CNESST adjusts the income replacement indemnity when: 
+the date the worker's new salary or wages become effective precedes or is the same as the date they became unable to work or of their preventive withdrawal in the case of a pregnant or breastfeeding worker 
+the new salary or wages are higher than those originally used to calculate the amount of the indemnity
+Information to be provided for the adjustment of the income replacement indemnity
+
+Request from the employer 
+The employer must send the CNESST a corrected copy of the “Avis de l'employeur et demande de remboursement” form or the “Demande de remboursement pour un retrait préventif de la travailleuse enceinte ou qui allaite” form. They must specify:
+the file number 
+the new salary or wages 
+the date on which the new salary or wages become effective
+Request from the worker 
+The worker must send the CNESST the documents supporting their adjustment request, for example the excerpt from the collective agreement that confirms the change in their salary or wages.
+
+The adjustment cheque is issued to the same recipient as that indicated in the file.
+If the worker was receiving the indemnity, they will receive the adjustment cheque. 
+If the employer was receiving the reimbursement, they will receive the adjustment cheque.
+At the employer’s or the worker’s request, the CNESST may reconsider a decision it has made concerning the gross annual income determined for the calculation of the indemnity.
+
+
+
+        Forms and publications      
+
+
+Guide de calcul de l'indemnité de remplacement du revenu pour les 14 premiers jours (Guide et modèle)
+
+
+
+Worker's claim (Formulaire)
+
+
+
+
+
+
+        Laws and regulations      
+
+
+Loi sur les accidents du travail et les maladies professionnelles (LATMP)
+
+
+
+
+
+
+
+
+
+
+Secondary menu
+
+
+ Workers
+ Active page
+
+
+Compensation and reimbursements
+Active page
+
+
+Compensation
+Active page
+
+
+Income replacement indemnity
+
+
+Income replacement indemnity for the first 14 days
+
+
+Compensation for bodily injury
+
+
+Retirement plan indemnity
+
+
+Death benefits
+
+
+RL-5 and T5007 tax slips
+
+
+
+
+Reimbursements and allowance
+
+
+Personal home assistance allowance
+
+
+Reimbursement for damaged clothing
+
+
+Reimbursement for damaged orthotic or prosthetic devices
+
+
+Reimbursement for medical aid
+
+
+Reimbursement of the cost of routine home maintenance work
+
+
+Reimbursement of travel, meal and accommodation expenses
+
+
+Remboursement de frais liés aux formations pour les mécanismes de prévention propres à un chantier de construction
+
+
+
+
+
+
+Work accident or occupational disease
+
+
+Occupational disease
+
+
+Work accident
+
+
+What should you do if you have a work accident?
+
+
+The worker’s claim process: step by step
+
+
+Admissibility of a claim
+
+
+Choosing between the CNESST and another compensation plan
+
+
+Relapse, recurrence or aggravation of an employment injury
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Help us improve our website
+
+
+
+
+Was the information on this page helpful to you?
+
+
+
+
+
+Yes
+
+
+
+No
+
+
+
+
+
+What information are you looking for? 
+
+
+We will use your comments to improve the information.
+Avoid entering personal or file-related information. Please note that you will not receive a reply.
+Any questions about a file? Use our online inquiry service.  
+Would you like to file a complaint? Consult our Complaints and recourses section.
+
+
+
+
+
+ 
+
+
+
+
+Leave this field blank

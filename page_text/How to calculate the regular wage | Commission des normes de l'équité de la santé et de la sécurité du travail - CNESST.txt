@@ -1,0 +1,151 @@
+How to calculate the regular wage
+
+
+To calculate the indemnity owed when the required length of notice of termination of employment or notice of collective dismissal was not given, we need to know what the worker’s regular wage is.
+Worker paid on a weekly basis
+The indemnity must be calculated based on the number of weeks of notice that were missing and the regular weekly wage.
+
+Example
+Paul has worked for the same employer for 10 years. His employer terminates his employment. He gives Paul 4 weeks’ notice of termination of employment.  
+Since Paul is credited with 10 years of uninterrupted service, the notice period is 8 weeks. This means that he is entitled to an indemnity that is equivalent to 4 weeks’ wages.  
+Paul’s average weekly wage: $455  
+$455 x 4 weeks = $1 820 
+He will receive an indemnity of $1 820. 
+
+Worker with a flexible schedule
+The compensatory indemnity must be representative of the regular wage. In general, the amount will correspond to the average weekly wage multiplied by the number of missing weeks to comply with the notice period.
+
+Example
+Aurélie has worked for the same employer for 7 years. The employer terminates her employment and gives her one week’s notice of termination of employment. 
+Since Aurélie is credited with 7 years of uninterrupted service, the notice period is 4 weeks. This means that her employer must pay her an indemnity that is equivalent to 3 weeks’ regular wages. 
+To calculate the indemnity, we take the wages that she received during the 4 weeks before the date of termination, excluding overtime.  
+Aurélie’s wages for these 4 weeks are as follows:  
+Week 1: $560 
+Week 2: $546 
+Week 3: $560 
+Week 4: $490 
+__________________ 
+Total: $2 156 
+Average weekly wage: $2 156 ÷ 4 weeks’ notice = $539 
+Since she was given notice of termination of employment 1 week before the termination of her employment, her indemnity will be equivalent to 3 weeks’ regular wages, that is 3 x $539 = $1 617. 
+
+Worker paid by commission
+When a worker is paid by commission, their regular wage must be calculated based on all the complete periods of pay in the 3 months prior to the termination of employment.  
+
+Example
+Antoine, who is credited with 4 years of uninterrupted service, was laid off for more than 6 months with 1 week’s notice. He receives a base wage of $150 a week plus commission. 
+He received 12 complete weeks of pay during the 3 months prior to the termination of his employment. 
+12 weeks x $150 (base wage) = $1 800 
+Commissions received during the 12 weeks = $4 000 
+Total wages received: $5 800 
+Average weekly wage: $5 800 ÷ 12 weeks = $483.33 
+The indemnity will be calculated based on this amount. Since he is credited with 4 years of uninterrupted service, he should have been given 2 weeks’ notice of termination of employment. This means that his employer will have to pay him 1 week’s notice, that is, $483.33. 
+
+The regular wage would be calculated in the same way in a situation where the employer should pay an indemnity with respect to the notice of collective dismissal. The notice periods are, however, different.
+If workers are entitled to indemnities with respect to the notice of termination of employment and the notice of group termination, they will receive the higher of the indemnities they are entitled to. The indemnities are not cumulative.
+
+
+
+        Laws and regulations      
+
+
+Loi sur les normes du travail (LNT) – Articles 82 à 84
+
+
+
+
+
+Interpretation Guide – Section 82 à 84
+
+
+
+
+
+
+
+
+
+
+Secondary menu
+
+
+ Termination of employment
+ Active page
+
+
+Termination, layoff, dismissal and resignation
+
+
+Notice of termination of employment and indemnity
+
+
+Collective dismissal
+
+
+Insolvency and bankruptcy of a company
+
+
+How to claim sums owed in the event of an employer’s bankruptcy
+
+
+How to claim wage adjustments in the event of a company’s bankruptcy or insolvency
+
+
+
+
+Sale, merger or purchase of a company
+
+
+How to calculate the regular wage
+
+
+
+
+
+
+
+
+
+
+
+
+
+Help us improve our website
+
+
+
+
+Was the information on this page helpful to you?
+
+
+
+
+
+Yes
+
+
+
+No
+
+
+
+
+
+What information are you looking for? 
+
+
+We will use your comments to improve the information.
+Avoid entering personal or file-related information. Please note that you will not receive a reply.
+Any questions about a file? Use our online inquiry service.  
+Would you like to file a complaint? Consult our Complaints and recourses section.
+
+
+
+
+
+ 
+
+
+
+
+Leave this field blank

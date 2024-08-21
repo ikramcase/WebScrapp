@@ -1,0 +1,133 @@
+Ladder falls
+
+
+Ladders are used by workers either as a means of access or as a workstation for short-term tasks (less than an hour).
+On construction sites, ladders are used outdoors for erecting structures, finishing or renovating exterior walls or laying roofs. Ladders are also used indoors, as are stepladders, for plumbing, electricity or painting, for example.
+In the commercial, transportation and storage and medical and social services sectors, ladders and stepladders are commonly used to wash windows, do maintenance work or handle goods.
+Safety rules for all workplaces
+The employer, by implementing safety measures, and the worker, by applying them, have a shared responsibility to ensure safety when working at a height. Falling from a ladder is a hazard that can result in sprains, strains, multiple fractures and even death.
+The best way to prevent falls is to work on the ground whenever possible. Otherwise, an elevating platform or scaffold should be used to perform a task at a height.
+
+Zero tolerance
+If any of these rules are not followed, the CNESST will stop the work and those at fault will be liable to criminal prosecution.
+Zero tolerance sheet: Ladder falls
+
+
+When a ladder is used as a means of access:
+1. Place the ladder on a firm footing
+2. Don't carry objects in your hand while on the ladder
+3. Extend the ladder at least 900 mm (35 in) above the upper landing
+4. Securely fastened the ladder in place.
+ss. 26 1˚, 26 5˚ a) and b) of the RSST
+ss. 3.5.6 a), 3.5.6 e) I et ii of the CSTC
+s. 30 3˚ of the RSST
+s. 51 (3) of the LSST (reference to s. 10.4.2.2 of CSA Standard Z11-18)
+
+
+
+Section 10.4.2.2 of CSA Standard Z11-18
+When climbing up or down a ladder, the user must face the ladder and grip it firmly. The user must not move from one ladder to another. They must not climb a broken or deformed ladder or a ladder that has not been periodically inspected in accordance with section 10.3.1. When climbing up or down a ladder, the user must maintain 3-point contact: two feet and one hand or two hands and one foot.
+When a ladder is used as a workstation:
+fall protection such as a harness must be used if the worker is at risk of falling more than 3 m
+it must be placed on a stable base
+the work method used must allow the worker to keep their body between the ladder uprights.
+s. 2.9.1 of the CSTC
+s. 33.2 of the RSST
+s. 3.5.6 a) of the CSTC
+s. 26 1˚ of the RSST
+s. 30 2˚ of the RSST
+s. 51 3˚ of the LSST (reference to s. 10.4.2.1 of CSA Standard Z11-18)
+Section 10.4.2.1 of CSA Standard Z11-18, Climbing and work positions
+The user must stand at the centre of the bars or rungs (i.e., the centre of the user's body should not be outside the uprights). The user must not stand:
+higher than the level indicated on the label
+on any component of the ladder that is not a rung, platform or bar designated for this purpose
+on a single or extension ladder, higher than the fourth rung from the top of the ladder or higher than 900 mm (34 in.) below the top of the ladder
+on a stepladder or a trestle stepladder, higher than the second rung from the top (except in the case of stepladders that comply with section 6.2.10.2(b))
+on an extension trestle stepladder, higher than the upper rung of the extendable section
+on a combination ladder used as a self-supporting ladder, higher than the second rung from the top, or
+on a combination ladder used as a single ladder, higher than the third rung from the top
+
+Other mandatory safety measures
+
+Depending on the tasks to be performed, one or more of the following measures must be taken by the employer to ensure the safety of the worker:
+use scaffolding or equipment designed and built for lifting people when workers cannot safely perform their work on the ground or a solid base
+		 
+		s. 3.9.1 of the CSTC
+s. 32 of the RSST
+			 
+
+make sure the ladder or stepladder used complies with the regulations
+		 
+		s. 25 of the RSST
+ss. 3.5.3, 3.5.4 and 3.5.7 a) of the CSTC
+			 
+
+make sure the angle of incline of the ladder complies with the regulations
+		 
+		s. 26.4 of the RSST
+s. 3.5.6 d) of the CSTC
+			 
+
+inspect ladders and stepladders regularly for damage and defects and repair them
+		 
+		s. 51(5) of the LSST
+			 
+
+train workers on the safe use of ladders and stepladders
+		 
+		s. 51(9) of the LSS 
+
+
+Protective measures
+Elevating platform
+Harness and fall arrest device
+
+
+
+
+
+
+
+
+
+
+
+
+      See also    
+
+
+Travaux en hauteur – Les avantages de la plateforme élévatrice - vidéo
+
+
+
+
+
+
+
+
+      Forms and publications    
+
+
+Fiche tolérance zéro - Chutes de hauteur : Danger de chute à partir d'une échelle (Document d’information)
+
+
+
+La sécurité avec les échelles portatives et les escabeaux - Prévention des chutes (Document d’information)
+
+
+
+
+
+
+
+
+      Laws and regulations    
+
+
+Loi sur les accidents du travail et les maladies professionnelles (LATMP)
+
+
+
+
+
+Loi sur la santé et la sécurité du travail (LSST)
